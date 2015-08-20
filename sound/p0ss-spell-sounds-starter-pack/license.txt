@@ -1,0 +1,44 @@
+Author: p0ss
+License: CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/spell-sounds-starter-pack
+
+NOTE: WAVs files converted OGGs
+
+This Pack is intended to be a generic spell sounds starter pack, it should have most everything you need to get your spells sounding the part right away!
+
+It contains:
+3 Blessing Spell Sounds
+2 Cheering  (for level up and/or achievements)
+1 confusion spell
+5 curse spells
+1 disenchant spell
+2 enchant spells
+1 entrance spell (perhaps for a dramatic boss entry)
+5 explosions
+flamethrower spell
+forcepulse
+force push
+2 freeze spells
+1 healing spell
+1 insect/poison spell
+3 interlude sounds (for waiting)
+1 magic drop sound
+1 magic erase sound
+2 magic failure sounds
+1 magic shield sound
+1 moving sound (i imagine a boss teleporting around with this)
+1 pestilence sound (also an upset crowd sound)
+1 sand/snake spell
+2 shot spells
+1 spring/rebound spell
+1 steam spell
+1 teleport spell
+1 transmission sound
+3 warp sounds (also useful for teleport)
+1 water spell sound
+2 wind spell sounds
+22 assorted zap type spell sounds
+
+of course these titles are just suggestions, you might find completely different uses for them.  It just helped to sort them during creation.
+
+All of these sounds were created in Linux MultiMedia Studio and Audactity on Ubuntu 10.10

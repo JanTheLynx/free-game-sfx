@@ -1,0 +1,22 @@
+author: Jose Ortiz (MindChamber)
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/pink-knight-assets
+
+
+Here's the first of the 3 games I had available for the open bundle that Nick Liow put together.
+Sorry it's taking me so long to get them on Opengameart, but alot of the animations were made using  parts made up of movieClips so exporting them into a sprite sequence is proved really time consoming. 
+
+But heres the first one Its all the Art, sprites, background art, sound effects, and music loops used in Da Pink Knight.
+
+So theres Png sequences of
+The Pink Knight
+Giant Mech clockwork knight
+small minion knight
+explosions and other effects.
+
+Just stating this for the record this is not associated with CastleCrashers or Behemoth in anyway. 
+
+once I have the free time I will be converting the other two game  assets into png files and uploading here. 
+
+Attribution Instructions: 
+it would be nice if you credited me "MindChamber" but since is CCO you dont really have to.. but it would be nice :3

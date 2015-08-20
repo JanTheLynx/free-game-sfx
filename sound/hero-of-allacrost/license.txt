@@ -1,0 +1,14 @@
+License: GPL2
+Origin: https://sourceforge.net/projects/allacrost/
+
+
+http://www.allacrost.org/?q=node/14
+
+All of the source code, images, music, sounds, and other content are licensed under the GNU GPL. To summarize, this license grants the following rights:
+
+the right to run the program, for any desired purpose.
+the right to study how the program works, and modify it.
+the right to redistribute copies of the program.
+the right to improve the program, and release the improvements to the public.
+We urge you to read the license in its entirity to ensure that you are not in violation of it, especially if you plan to modify or redistribute the game.
+

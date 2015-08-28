@@ -1,0 +1,4 @@
+Author: Seth Robinson
+License: Zlib
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/

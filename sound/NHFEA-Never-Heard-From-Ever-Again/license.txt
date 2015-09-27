@@ -1,5 +1,6 @@
 Author: Lionx_Dagger
 License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/nhfea-sound
+        http://opengameart.org/content/nhfea-music
 
 pack of free Sound FX from game Never Heard From Ever Again (NHFEA)

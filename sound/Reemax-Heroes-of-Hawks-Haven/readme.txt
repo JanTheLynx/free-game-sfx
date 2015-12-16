@@ -1,6 +1,6 @@
 Author: Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
 License: CC-BY
-Origin: hhttp://opengameart.org/content/rpg-sound-package
+Origin: http://opengameart.org/content/rpg-sound-package
 
 This sound package contains various sound effects from Heroes of Hawks Haven. All these sounds are made by Tuomo Untinen.
 

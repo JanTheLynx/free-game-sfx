@@ -1,0 +1,18 @@
+ファイル名の先頭が"mm-"のファイル
+	ザ・マッチメイカァズ
+	http://osabisi.sakura.ne.jp/m2/
+
+ファイル名の先頭が"wwl-"のファイル
+	WEB WAVE LIB
+	http://www.s-t-t.com/wwl/
+
+ファイル名の先頭が"sl-"のファイル
+	SOUND LIBRARY フリー効果音のページ
+	http://www.soundoffice.com/se/
+
+ファイル名の先頭が"魔王魂-"のファイル
+	音楽　魔王魂
+	http://maoudamashii.jokersounds.com/
+
+その他のファイル
+	nhsound, os/2 port(jhackwv1), os/2 port(jnhackwv2)

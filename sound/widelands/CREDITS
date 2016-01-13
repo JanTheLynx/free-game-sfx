@@ -1,0 +1,99 @@
+CREDITS
+=======
+
+Widelands uses a lot of libraries and files,
+which are distributed by other Open-Source Projects.
+And you really can believe, that widelands still
+would be in the stoneage, if not for using these files :-).
+
+The Widelands Development Team thanks the following projects:
+
+    libSDL
+    libSDL_mixer
+    libSDL_net
+    libSDL_image
+    libSDL_ttf
+    * All files from SDL-Project
+    * Project can be found at http://www.libsdl.org/
+
+
+    Gettext
+    * By Free Software Foundation, Inc.
+    * Project can be found at http://www.gnu.org/software/gettext/
+
+
+    libiconv
+    * By Free Software Foundation, Inc.
+    * Project can be found at http://www.gnu.org/software/libiconv/
+
+
+    libpng
+    * By Glenn Randers-Pehrson, Andreas Eric Dilger & Guy Eric Schalnat
+    * Project can be found at http://www.libpng.org/
+
+
+    zlib
+    * By Jean-Loup Gailly and Mark Adler
+    * Project can be found at http://www.gzip.org/zlib/
+
+
+    boost
+    * Project can be found at http://www.boost.org
+
+
+    STLport
+    * By STLport Consulting, Inc.
+    * Project can be found at http://www.stlport.com
+
+
+    Freefonts
+    * By The Free Software Foundation, Inc.
+    * Project can be found at http://savannah.gnu.org/projects/freefont/
+
+
+    Inno Setup
+    * By Jordan Russel
+    * Project can be found at http://www.innosetup.com
+
+
+    CMake
+    * By Kitware, Inc
+    * Project can be found at http://www.cmake.org
+
+
+    http://www.Sourceforge.net
+    * for their Portal and hosting us till early 2010
+
+
+    Bazaar
+    * By Canonical Ltd.
+    * Project can be found at http://bazaar.canonical.com/en/
+
+
+    Lua
+    * by Lablua, PUC-Rio
+    * http://www.lua.org
+
+
+    Pluto
+    * by Ben Sunshine-Hill, Rob Hoelz
+    * http://luaforge.net/projects/pluto/
+
+
+    Lodepng (for testing, not in Widelands itself)
+    * by Lode Vandevenne
+    * http://lodev.org/lodepng/
+
+
+and last but not least:
+    http://www.launchpad.org
+    * for their bazaar service
+    * bugtracker
+    * and many more services :-)
+
+
+
+A big thank you goes to "Studio 10a", owned by Stichting Voorburgse en
+Leidschendamse Lokale Omroep Midvliet, for supporting the recording of
+some of our sound effects!
+

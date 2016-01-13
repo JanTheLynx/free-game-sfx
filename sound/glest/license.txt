@@ -1,0 +1,5 @@
+Author: The Glest Team
+License: CC-BY-SA
+Origin: https://sourceforge.net/projects/glest/
+
+Glest is Copyright to The Glest Team, 2001-2009, with its code released under GNU General Public License (GPL) Version 2. Its data (such as models and sounds) are released under the Creative Commons Attribution-ShareAlike 3.0 Unported license. -- https://docs.megaglest.org/Glest

@@ -1,3 +1,0 @@
-author: IgnasD
-license: CC0 (Public Domain)
-origin: http://opengameart.org/content/crows-singing

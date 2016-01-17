@@ -6,6 +6,10 @@ Origin: http://opengameart.org/content/wind
         http://opengameart.org/content/step-sound-walking
         http://opengameart.org/content/clock-tick-0
         http://opengameart.org/content/meow
+        http://opengameart.org/content/ice-breakingshattering
+        http://opengameart.org/content/jumping-man-sounds
+        http://opengameart.org/content/walking-on-snow-sound
+        http://opengameart.org/content/crows-singing
 
 Check my new project! - www.crystalgames.space
 

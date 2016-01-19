@@ -1,0 +1,31 @@
+The OpenClonk project is licensed under the ISC license for code and CC licenses for
+media. See below for details on the authors and on the specific licenses used for
+the different contributions.
+
+Scripts
+=======
+The author(s) are listed in the individual script files. If no author is 
+specified: The OpenClonk Project
+All scripts are licensed under the terms of the ISC license.
+
+
+Source
+=======
+The author(s) are listed in the individual source code files. All source files 
+are licensed under the terms of the ISC license, unless stated otherwise.
+
+
+Graphics and Models
+===================
+The newest list of authors for our graphics and models used, can be found in
+our resources repository here:
+https://git.openclonk.org/openclonk-resources.git/blob_plain/HEAD:/authors.txt
+
+If a particular graphic is taken from another source, there should be a 
+authors.txt in the same directory
+
+
+Music, Sounds and Material Textures
+=====
+See authors.txt in Music.ocg, Sound.ocg and Material.ocg. For sound and other
+content files in game content, there exist separate authors.txt

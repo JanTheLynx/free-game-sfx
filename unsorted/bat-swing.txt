@@ -1,0 +1,10 @@
+author: nextmaking
+license: http://creativecommons.org/licenses/sampling+/1.0/
+origin: https://freesound.org/people/nextmaking/sounds/86022/
+
+You are free:
+- To sample, mash-up, or otherwise creatively transform this work for commercial or noncommercial purposes.
+- To perform, display, and distribute copies of this whole work for noncommercial purposes (e.g., file-sharing or noncommercial webcasting).
+
+Under the following conditions:
+- You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).

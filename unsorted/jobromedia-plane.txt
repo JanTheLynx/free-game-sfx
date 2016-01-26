@@ -1,0 +1,3 @@
+Author: Johan Brodd 'jobromedia'
+License: CC-BY, CC-BY-SA, GPL2, GPL3
+Origin: http://opengameart.org/content/airplane-0

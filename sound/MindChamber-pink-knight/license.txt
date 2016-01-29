@@ -1,4 +1,4 @@
-author: Jose Ortiz (MindChamber)
+author: Jose Ortiz 'MindChamber'
 license: CC0 (Public Domain)
 origin: http://opengameart.org/content/pink-knight-assets
 

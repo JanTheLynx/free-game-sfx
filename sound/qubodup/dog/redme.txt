@@ -1,0 +1,4 @@
+Author: Iwan Gabovitch 'qubodup'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/dog-grunt
+        http://opengameart.org/content/dog-snarl-grunt-grumble

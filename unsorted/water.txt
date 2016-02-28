@@ -1,0 +1,7 @@
+author: August 'erxer1'
+license: CC-BY
+origin: http://opengameart.org/content/water-flowing-sound
+
+It's almost spring and the snow is melting, so I thought I should record some water flowing sounds.
+
+There is a little bit of extra noise in the beginning, so if you are going to use it somewhere I recommend cutting it out.

@@ -1,0 +1,8 @@
+author: suntemple
+license: CC0 (Public Domain)
+origin: https://freesound.org/people/suntemple/sounds/253176/
+
+Spell/Eerie Movement/Wind effect to be used in retro games
+
+Originally created for Element Puzzle:
+http://suntemple.co/html5/element-puzzle-game

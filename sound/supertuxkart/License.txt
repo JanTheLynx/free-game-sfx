@@ -1,0 +1,228 @@
+* airplane_jetEngine
+    By Fritz Schlüter (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+    http://commons.wikimedia.org/wiki/File:2011-06-05_19-32_Berlin_TXL_Airplane_Flyover_plus_Wingtip_Vortex.ogg
+
+* anvil
+    Released under the GPL
+    by the "Battle For Wesnoth" project
+
+* appear
+    Released under Creative Commons 0
+    By Martian/www.fork-media.com (http://www.freesound.org/people/martian/sounds/19284/)
+
+* ball_bounce
+    Released under GPL vs2+
+    by the Supertux team
+
+* boing
+    Released under the Creative Commons 0 license
+    By vrodge (http://www.freesound.org/people/vrodge/sounds/119518/)
+    
+* bowling_roll
+    Released under the CC-BY-SA 3.0 license (sounds originally released under CC-Sampling+, but obtained permission
+    from author to release them under CC-By-SA 3.0)
+    By Marianne Gagnon (Auria), based on "PaintCan", "StoneSpinLong" and
+    "PaintCanDropHardAndRoll" by daveincamas, released under the same license
+
+* break
+    released under CC-BY 3.0
+    Based on work by Daniel Simion and BlastwaveFx
+    
+* bubblegum_explode.ogg
+    released under CC-BY 3.0
+    Based on work by Percy Duke and jjhouse4
+    http://www.freesound.org/people/Percy%20Duke/sounds/23297/
+    http://www.freesound.org/people/jjhouse4/sounds/197990/
+    
+* bzzt
+    Released under the GNU GPL, coming from original (Super)TuxKart
+
+* car_accel
+    By SpeedJunkie, released under CC-BY 3.0
+
+* car_revup
+    By Mike Koenig, reeased under CC-BY 3.0
+
+* clock
+    based on sound by Natalie from pdsounds.org
+    with modifications by Marianne Gagnon
+    released under public domain
+
+* crash
+    released under CC-BY-SA 3.0
+    layered and mixed by qubodup <qubodup.net>
+    recorded by Halleck <http://www.freesound.org/people/Halleck/>
+
+* dark
+    By 7by7, released under CC0 (public domain)
+
+* energy_bar_full
+    By legoluft (http://www.legoluft.de), from the Krank sound pack
+    http://opengameart.org/content/atmospheric-interaction
+    released under CC0
+    
+* engine_large
+    released under CC-BY-SA 3.0
+    based on "Compressed Motor" by Stephan from pdsounds.org,
+    "Transfer Truck idle and drive sound" by Mike koenig from soundbible.com, released under Attribution 3.0,
+    "Car accelerating sound" by speedjunkiefrom soundbible.com released under Attribution 3.0,
+    mixing and mash-up by Marianne Gagnon
+    
+* engine_small
+    Released under GPL
+    by Richard Langridge, from the Trigger-Rally project
+    
+* explosion
+    Released under the GNU GPL, coming from original (Super)TuxKart
+    
+* forcefield
+    Released under CC-0, by Aust_paul
+    http://www.freesound.org/people/aust_paul/sounds/30935/
+    
+* gnu_flute
+    Released under CC-BY 3.0 license
+    by Kerri (http://www.freesound.org/people/kerri/sounds/27257/)
+
+* goal_scored
+	Released under CC-BY 3.0
+	by jordiroquer (http://www.freesound.org/people/jordiroquer/sounds/148153/)
+	
+* goo
+    based on Squish 1-SoundBible.com-662226724
+    by Mike Keonig, released under CC-Attribution 3.0 License
+    
+    based on Water Down Gutter 2-SoundBible.com-246890987
+    by Mike Keonig, released under CC-Attribution 3.0 License
+    
+    with modifications by Marianne Gagnon
+    released under CC-Attribution 3.0 License
+
+* gp_end
+    Released under Creative Commons Attribution 3.0 license
+    By Mike Koenig (from http://soundbible.com/989-10-Second-Applause.html)
+
+* grab_collectable
+    obtained from : http://www.freesoundfiles.tintagel.net/Audio/
+    (see license text below)
+
+* hammer
+    Mix by Marianne Gagnon, released under CC-BY 3.0
+    Including samples by snottyboi, released under Creative Commons Attribution 3.0
+                         from SoundBible ("Whip Crack Sound")
+                      by Tomlija, released under CC-BY 3.0
+                         from http://www.freesound.org/people/Tomlija/sounds/98946/
+                      by Mike Koenig, released under CC-BY 3.0
+                         from http://soundbible.com/1217-Metal-Clang.html
+                      by Stickinthemud, released under CC-BY 3.0
+                         from http://www.freesound.org/people/Stickinthemud/sounds/27528/
+    
+* horn
+    Released under the Creative Commons BY (Attribution) 3.0
+    Recorded by Mike Koenig, with modifications by Marianne Gagnon (Auria)
+    
+* inflate
+    Created by  neonaeon, released under CC-BY 3.0
+    http://www.freesound.org/people/neonaeon/sounds/16572/
+
+* last lap fanfare
+    by Dundersylt
+    released under CC-BY-SA 3.0+
+
+* locked
+    By "Stephan" from pdsounds.org (license is public domain)
+
+* machine_sound
+    based on sound by Swelk, released under CC-BY 3.0, with modifications by Marianne Gagnon
+    http://www.freesound.org/people/swelk/sounds/12906/
+    
+* metal_clang
+    based on public domain sound by dADDoiT and CC-BY 3.0 sounds by Mike Koenig
+    released under CC-BY 3.0
+
+* nitro
+    based on CC0 sound by Nic3_one
+    http://www.freesound.org/people/Nic3_one/sounds/166542/
+    
+* parachute
+    based on Public Domain Sounds from either pdsounds or ghb_pd
+    Modifications (c) 2009 Christoph Egger <debian@christoph-egger.org>.
+    You may choose one of the following Licenses:
+     * ZLib License
+     * GNU GPL Version 2 or Later
+     * CreativeCommons BY 3.0
+
+* plunger
+    Based on work by Mike Koenig (http://soundbible.com/845-Suction.html)
+    With modifications by Marianne Gagnon
+    Released under CC-BY-SA 3.0
+     
+* portal
+    by Arthur_D
+    released under CC-BY-SA 3.0
+
+* pre_start_race
+    Released under CC-BY-SA 3.0 license
+    by Iwan 'qubodup' Gabovitch <http://opengameart.org/content/race-start-beeps>
+    
+* shoot
+    Released under the GNU GPL v2 license
+    Based on sound effects from the Warmux and Battle for Wesnoth projects,
+    both released under the same license,
+    with modifications by Marianne Gagnon
+          
+* skid 
+    Released under Creative Commons Attribution - Share Alike License 3.0
+    by Tom Haigh and Iwan 'qubodup' Gabovitch
+    http://www.freesound.org/people/audible-edge/sounds/71739/
+    http://opengameart.org/content/car-tire-squeal-skid-loop
+
+* spaceship
+    Based on work by Ch0cchi
+    http://www.freesound.org/people/Ch0cchi/sounds/15347/
+    Released under CC-BY 3.0
+
+* splash
+    Based on 'Fish Splashing-SoundBible.com-250179430' sound bible, by blastwavefx.com, released under CC-BY-SA 3.0
+    and on 'Water vaporizing on hot Stones' by Natalie from pdsounds.org, released under public domain
+    Mix by Marianne Gagnon, released under CC-BY-SA 3.0
+
+* start_race
+    Released under CC-BY-SA 3.0 license
+    by Iwan 'qubodup' Gabovitch <http://opengameart.org/content/race-start-beeps>
+    
+* strike
+    based on http://www.freesound.org/samplesViewSingle.php?id=82359 (1 and 2) and
+    http://www.freesound.org/samplesViewSingle.php?id=82358 (3) by juskiddink.
+    Released under cc-by-sa 3.0 http://creativecommons.org/licenses/by-sa/3.0/ .
+    With modifications by qubodup <qubodup@gmail.com>
+
+* swap
+    By "Stephan" from pdsounds.org (license is public domain)
+
+* swatter
+    By snottyboi, released under Creative Commons Attribution 3.0
+    from SoundBible ("Whip Crack Sound")
+
+* thunder
+    based on "Lightning Strike Summer Storm Sound" by Mike koenig  from soundbible
+    with modifications by Marianne Gagnon
+    released under CC-BY 3.0
+
+* track intro, race finish
+    by Dundersylt
+    released under CC-BY-SA 3.0+
+
+* tractor_beam,
+    by metamorphmuses
+    http://www.freesound.org/people/metamorphmuses/sounds/35201/
+    Released under CC-BY 3.0
+
+* ugh
+    Released under the GNU GPL, coming from original (Super)TuxKart
+
+* Wooden bridge
+    from pdsounds.org, edited by Marianne Gagnon
+    released under public domain.
+
+* wee
+    Released under the GNU GPL, coming from original (Super)TuxKart

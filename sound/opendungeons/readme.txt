@@ -1,0 +1,5 @@
+Author: see authors.txt
+License: CC-BY-SA
+Origin: https://opendungeons.github.io/
+
+OpenDungeons is an open source, real time strategy game sharing game elements with the Dungeon Keeper series and Evil Genius. Players build an underground dungeon which is inhabited by creatures. Players fight each other for control of the underground by indirectly commanding their creatures, directly casting spells in combat, and luring enemies into sinister traps.

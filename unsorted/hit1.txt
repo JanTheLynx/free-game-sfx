@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-sfx
+
+Edited out of public domain sound effect by krial (http://opengameart.org/content/siclone-sound-effects)

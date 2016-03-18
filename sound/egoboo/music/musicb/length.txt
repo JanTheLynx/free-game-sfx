@@ -1,0 +1,21 @@
+85850  <--  Size of each file ( 86250 )
+
+This is kinda-sorta interactive,
+so if you want to change the music,
+follow this pattern...
+
+
+Music00 - Basic theme
+Music01 - Variation on basic theme
+Music02 - Variation on basic theme
+Music03 - "Secret" theme fade-in
+Music04 - "Secret" theme sustain
+Music05 - "Secret" theme fade-out
+Music06 - "Combat" theme fade-in
+Music07 - "Combat" theme sustain
+Music08 - "Combat" theme fade-out
+
+
+Pad the start of each file with 100 msecs.
+Specify which igmusic to use via an
+igmusic.txt file in gamedat...

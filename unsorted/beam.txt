@@ -1,0 +1,14 @@
+Author: Richard Svensson, Jimmy Magnusson
+License: GPL2
+Origin: https://sourceforge.net/projects/zerofps/
+
+ZeroFps 3D Engine (C) Richard Svensson & Jimmy Magnusson
+
+this software is released under 
+GPL(general public license)
+
+if you like what you see or have any questions about
+the software please email us at
+
+
+Richard Svensson (Dvoid)   dvoid@linux.nu

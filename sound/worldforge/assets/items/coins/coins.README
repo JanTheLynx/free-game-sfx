@@ -1,0 +1,12 @@
+coins_<foo>_X_Y.wav
+
+These sounds are the sounds made by coins being used in various different
+ways. <foo> gives some kind of indication of the type of noise, X gives
+the number of coins being used, and Y is just an index number.
+See coins_<foo>.README for details of each series.
+
+The coins used to create these sounds were UK 1p and 2p coins with a few
+silver coins mixed in. The sounds are all 44.1kHz 16bit WAVs, normalised.
+
+Al Riddoch (alriddoch@users.sourceforge.net)
+March 4th 2000

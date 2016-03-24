@@ -1,0 +1,5 @@
+author: Zapsplat (http://www.zapsplat.com)
+license: Linkware
+origin: http://www.flashkit.com/soundfx
+
+"If you download a linkware FX, you must include a link to the author and credits if you use it! Preferably with a logo as well!"

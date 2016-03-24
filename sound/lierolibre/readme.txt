@@ -1,5 +1,5 @@
 Author: "sea"
-License: CC-BY
+License: WTFPL
 Origin: http://www.liero.be/
         https://launchpad.net/lierolibre/
 

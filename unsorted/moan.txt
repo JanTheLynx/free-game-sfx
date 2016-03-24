@@ -1,0 +1,5 @@
+author: GoodListener
+license: CC-BY
+origin: https://freesound.org/people/GoodListener/sounds/322445/
+
+A horse vocalization edited using paulstretch and playing with tempo.

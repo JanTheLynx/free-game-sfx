@@ -1,0 +1,8 @@
+Author: Unknown Horizons Team
+License: CC-BY-SA 3.0
+Origin: https://github.com/unknown-horizons/sounds
+
+https://github.com/unknown-horizons/unknown-horizons/blob/master/doc/LICENSE
+"Our own audiovisual media content is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit  http://creativecommons.org/licenses/by-sa/3.0/legalcode ."

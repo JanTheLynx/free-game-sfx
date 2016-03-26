@@ -1,0 +1,9 @@
+Author: hazure (https://www.freesound.org/people/hazure/)
+License: CC-BY-SA 3.0
+Origin: https://www.freesound.org/people/hazure/
+
+https://github.com/unknown-horizons/unknown-horizons/blob/master/doc/LICENSE
+"The author of above tracks, hazure, kindly licensed these files under CC-BY-SA 3.0
+for us according to the following message.  We highly appreciate this favor.
+"You may use those two samples under the CC-BY-SA 3.0 license, and consider this
+ message as formal documentation of the permission given." ~ Feb 25, 2011."

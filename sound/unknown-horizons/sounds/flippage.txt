@@ -1,0 +1,4 @@
+Author: yd
+License: Public Domain (CC0)
+Origin: https://github.com/unknown-horizons/
+        http://opengameart.org/content/old-pagesflip-with-sound

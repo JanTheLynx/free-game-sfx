@@ -1,0 +1,8 @@
+author: PWL (http://caphi.net/)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/bell-dingschimes
+
+Somewhat thin and short chime sound.
+
+Copyright/Attribution Notice: 
+Releasing as public domain.

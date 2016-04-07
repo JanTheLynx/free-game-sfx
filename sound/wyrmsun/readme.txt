@@ -22,14 +22,13 @@ Features:
 - Retro-style graphics
 - 2 playable civilizations, and a number of non-playable ones
 - 23 quests to play, earning technology points which can be used to obtain new units, buildings and technologies
-- 38 units, 30 buildings and 21 technologies
-- Units can earn experience, being able to upgrade to new unit types or acquire new abilities upon level-up
-- Persistent heroes, who carry over their level and abilities throughout scenarios
+- Dozens of units, buildings and technologies
 - Personal names and traits for units
-- Cave, Conifer Forest, Dungeon, Fairlimbed Forest and Swamp tilesets
-- 37 maps of real and fictional locations to choose from, as well as random maps
-- Living environment, with fauna reproduction and predation
-- Very moddable game, with mod-loading capability built in
+- Units can earn experience, being able to upgrade to new unit types or acquire new abilities upon level-up
+- Persistent heroes, who carry over their level, abilities and items throughout scenarios
+- Possibility to create your own custom persistent heroes
+- Normal, magic-enchanted and unique items drop from enemies
+- Very moddable game, with a built-in mod editor and Steam Workshop integration
 - Grand strategy mode, where production is resolved on the strategic (world map) level, while battles are resolved on the tactical level
 - In-game encyclopedia, allowing players to learn more about the units, buildings and other elements of the game, as well as their historical and mythological sources of inspiration
 
@@ -41,147 +40,7 @@ Getting Wyrmsun on Steam (http://store.steampowered.com/app/370070) provides you
 # License
 ############################################################
 
-The Stratagus engine, as well as the code, artwork, sounds, music and story elements included in Wyrmsun are distributed under the GPL 2.0 license, with the exception of the following files:
-
-/graphics/ui/backgrounds/gryphon.png (used for Wyrmsun with permission)
-/graphics/ui/backgrounds/gryphon_4_3.png (used for Wyrmsun with permission)
-/graphics/ui/backgrounds/gryphon_small.png (used for Wyrmsun with permission)
-/graphics/ui/backgrounds/wyrm.png (used for Wyrmsun with permission)
-/graphics/ui/backgrounds/wyrm_4_3.png (used for Wyrmsun with permission)
-/graphics/ui/backgrounds/wyrm_small.png (used for Wyrmsun with permission)
-/sounds/buildings/complete_barracks.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_blacksmith.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_civ_center.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_corral.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_farmstead.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_fortress.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_storehouse.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/complete_tower.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_barracks.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_blacksmith.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_civ_center.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_corral.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_farmstead.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_fortress.wav (licensed under the CC-BY-SA 3.0)
-/sounds/buildings/sel_tower.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_stone_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_stone_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_12.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_13.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_14.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_15.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_16.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_17.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/construction/con_wood_18.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_1a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_12.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_13.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_14.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_15.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_16.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_17.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_18.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/foraging/leaves_19.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_01.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_02.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_03.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_04.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_05.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_06.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_07.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_08.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_09.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_12.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_13.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_14.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_15.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_16.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_17.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_18.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_19.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_20.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_21.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_22.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_23.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/metal_mining/mine_metal_24.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_01.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_02.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_03.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_04.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_05.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_06.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_07.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_08.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_09.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_12.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_13.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_14.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_15.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_16.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_17.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_18.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_19.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_20.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_21.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_22.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_23.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_24.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/stone_mining/mine_stone_25.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/sel_metal_01.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/sel_tree_01.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/warship_death_01.wav (licensed under the CC-BY-SA 3.0)
-/sounds/misc/warship_death_02.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_21.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_22.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_23.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_24.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_25.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_26.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_27.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_28.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_29.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_210.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_211.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_212.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_213.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_214.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/shield_metal/shieldimpmetal_215.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_10.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_10a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_11.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_11a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_11b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_12.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_12a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_12b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_13.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_13a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_13b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_14.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_14a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_14b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_15.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_15a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_15b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_16.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_16a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_16b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_17.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_17a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_17b.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_18.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_18a.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_19.wav (licensed under the CC-BY-SA 3.0)
-/sounds/missiles/sword/swordhit_19a.wav (licensed under the CC-BY-SA 3.0)
-
+The Stratagus engine, as well as the code and story elements included in Wyrmsun are distributed under the GPL 2.0 license. For the licenses of the graphics, sounds and music, look in the /graphics/credits.txt, /sounds/credits.txt and /music/credits.txt files.
 
 See the license.txt file for the text of the GPL 2.0. The contents of the CC-BY-SA 3.0 license can be found at: http://creativecommons.org/licenses/by-sa/3.0/
 
@@ -189,7 +48,7 @@ Wyrmsun uses a modified version of the Stratagus engine, and its source code can
 https://github.com/Andrettin/Wyrmgus
 
 For the source code of the Stratagus engine itself, see:
-https://launchpad.net/stratagus
+https://github.com/Wargus/stratagus
 
 Wyrmsun's data repository can be found here:
 https://github.com/Andrettin/Wyrmsun
@@ -199,11 +58,977 @@ https://github.com/Andrettin/Wyrmsun
 ############################################################
 
 -----------------------------------------------------------------------
-- 1.3.4
+- 2.1.3
+-----------------------------------------------------------------------
+
+* Buildings
+- Added Dwarven Temple (graphics by Jinn).
+- Added Teuton Temple (graphics by Jinn).
+- Temples regenerate the health of nearby organic units.
+- Added graphics for pre-masonry Teuton Stables (by Exidelo, commissioned by Kyran Jackson for his third-party Wyrmsun spinoff under development, Timeless Tales).
+- Fixed issue which caused towers to occasionally deal a very fast, constant stream of damage.
+
+* Editor
+- Building graphics can now be used for custom units/buildings in the editor.
+
+* Factions
+- Added the Bernice Tribe (Teuton, uses Old English as its language).
+- Added the Dere Tribe (Teuton, uses Old English as its language).
+- Expanded the encyclopedia entry of the dwarven Brising and Eikinskjaldi Clans.
+- Added an encyclopedia entry for the dwarven Joruvellir and Lyr factions.
+- Expanded the encyclopedia entry of the germanic Asa Tribe.
+- Added Bernicia, Deira, East Anglia, Mercia and Wessex (Teuton polities, they use Old English as their language).
+
+* Grand Strategy
+- Split the England province into the Cornwall, Cumbria, Durham, East Anglia, Essex, Kent, Mercia, Northumberland, Sussex, Wales, Wessex and York ones.
+- In the Grand Strategy mode, temples provide extra research.
+
+* Items
+- Potions of Healing are now bought in temples, rather than stronghold-class buildings.
+
+* Maps
+- Fixed a couple of tiles who were in the wrong place in the Shorbear Hills map.
+
+* Miscellaneous
+- The encyclopedia "Factions" section is now divided into subsections for different civilizations.
+
+* Quests
+- The Gnomish Envoy and Rugnur now disappear upon reaching their final objectives in the Hills of the Shorbear Clan quest.
+- The Tomb of Durahn Eikinskjaldi quest (Dwarf) now grants two technology points instead of one.
+- The Blue Danube quest (Teuton) now grants four technology points instead of three.
+
+* Terrain
+- New forest tileset rock graphics (by Exidelo).
+
+* Units
+- The Kriegers and Speerkampfers of the Bernice and Dere Tribes get a 50% damage bonus for a certain duration after disembarking from a transport ship.
+- Transports and towers now have an attack button, used to instruct the units inside to attack a particular unit.
+
+-----------------------------------------------------------------------
+- 2.1.2
+-----------------------------------------------------------------------
+
+* DLCs
+- Added command panel interface graphics in the Brising Faction Flair Pack (by Jinn).
+- Added command panel interface graphics in the Frankish Faction Flair Pack (by Jinn).
+
+* Grand Strategy
+- At the start of the game, if a province has more workers than it can feed, that quantity will be automatically reduced to the maximum number of workers the province can feed.
+- Fixed issue which caused factions to generate names for tiles even if their language was the same as their civilization's.
+- Provinces owned by factions at game start now begin with at least four workers (if it can feed that many).
+- Provinces owned by factions at game start now begin with at least two infantry units.
+
+* Miscellaneous
+- The time of day is now written in the interface (thanks to Marcelo Fernandez).
+- Fixed issue with results screen.
+
+* Units
+- Units will now attack non-predator fauna units that are attacking one of your units (i.e. yales that attacked an unit of yours who got close to it).
+- The popup which appears when hovering a single-selected unit now has information on its stats, and right-clicking the button now leads to its encyclopedia entry.
+
+-----------------------------------------------------------------------
+- 2.1.1
 -----------------------------------------------------------------------
 
 * Grand Strategy
+- Literary works now have a random chance of being created in a province of the appropriate culture (if the province's owner has knowledge of writing). When a literary work is created in a province, it provides a small amount of prestige to the owner of the province.
+- Fixed issue which caused Teuton grand strategy buildings to appear grayed even if already built.
+
+-----------------------------------------------------------------------
+- 2.1.0
+-----------------------------------------------------------------------
+
+* Civilizations
+- All cursors are now preloaded, instead of only that of the player's civilization, to eliminate the cursor loading time mid-game when changing civilization.
+
+* DLCs
+- Added "The Death of Count Cadaloc" music theme to the Frankish Faction Flair Pack (by Marcelo Fernandez) (http://www.marcelofernandezmusic.com), for when playing Frankish factions (or playing Teuton factions who lack music of their own).
+- With the Brising Faction Flair Pack, dwarven Axefighters and Steelclads now have a different shield for their unit graphics if the player is using the Brising Clan or a related faction, or if a Brising Round Shield is equipped (graphics by Jinn).
+- Added graphics for when a Brising Round Shield is laying on the floor (by Jinn).
+- Update to the Brising Round Shield icon (modification by Jinn).
+
+* Items
+- Fixed an issue which caused the game to crash when units who do not have any active abilities (like Skutans) had a spell scroll in their inventory, and the mouse hovered over the item.
+
+* Map Editor
+- Added support for saving maps as mods; this saves only the custom factions, custom words (for name generation), modified unit stats and unit sounds, allowing you to load the mod in the Mods screen.
+- Added support for creating custom factions in the editor.
+- Added support for creating custom unit types in the editor.
+
+* Multiplayer
+- Fixed a few potential crash causes for multiplayer.
+- Fixed a potential desync cause related to variations.
+
+* Quests
+- Updated The Mead of Wisdom quest (dwarf) to give some information as to the fate of the sons and followers of Fjalar and Galar after the duo's death.
+
+-----------------------------------------------------------------------
+- 2.0.0
+-----------------------------------------------------------------------
+
+* Abilities
+- Added "Puncture" learnable active ability (icon by Exidelo), available for units capable of making melee thrusting attacks.
+
+* Buildings
+- Improved Teuton smithy name generation.
+- Added a Brising-specific version of the Dwarven Smithy (+50% Time Efficiency).
+- Brising Smithies now have their own graphics (if the player has the Brising Faction Flair DLC).
+- Brising Mead Halls and Bastions now have their own graphics (if the player has the Brising Faction Flair DLC).
+- Added proper name generation for lumber mills.
+- Dwarven Smithies now have proper names in the Dwarven language.
+
+* Civilizations
+- Added many new component words for Germanic settlement, province and smithy name generation.
+- Names for smithies, provinces and settlements are now generated for Goblins.
+
+* Factions
+- Added support for factions using a different language than their civilizations (for name generation).
+- The England and Scotland factions now use English for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- The Saxon Tribe and related factions now use Old Saxon for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- The Frisian Tribe and related factions now use Old Frisian for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- The Suebi, Marcomanni, Alamanni, Bavarian Tribes and their related factions now use Old High German for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- The Angle Tribe now uses Old English for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- The Frank Tribe and related factions now use Old Frankish for proper name generation (for units, settlements, provinces, mountains, hills, smithies and lumber mills).
+- Renamed the Skjoldung Tribe (Germanic) to Skeldung Tribe.
+
+* Grand Strategy
+- Fixed issue which caused custom heroes to not be placed in the province properly after the "On the Vanaquisl" event mission.
+- Fixed issue which caused the screen to be partially blackened after certain event missions.
+- Fixed issue which allow players to save/load scenarios from within a grand strategy battle by using the save/load hotkeys.
+- Fixed issue which required the attacked province to have a dock in order to conduct an attack overseas, rather than requiring the province from which the troops were being sent to have a dock.
+- Fixed issue which caused workers to not generate labor after loading a saved game.
+- Fixed issue which caused rebellions to happen with no rebel units present, when the population of the rebelling province was too low.
+- Added new tooltip to explain how to move units and attack provinces.
+- Fixed issue with terrain tile name generation which caused an occasional crash when starting a grand strategy game.
+- Added new tooltip to explain how to attack over water.
+
+* Heroes
+- An error message is now given when an invalid custom hero name is entered (if it has an invalid character or contains only spaces).
+
+* Items
+- Scrolls can now drop from town hall and stronghold type buildings (scrolls always have a property associated with them).
+- Added "Suebi Allegiance" spell for scrolls, which allows Teuton units to transform into their Suebi faction-specific equivalents (if any).
+- Added "Detachment" spell for scrolls, which allows a faction-specific unit to transform into its civilization's equivalent unit.
+- Added "Forgetfulness" spell for scrolls, which allows retraining a unit.
+- Added "Frank Allegiance" spell for scrolls, which allows Teuton units to transform into their Frank faction-specific equivalents (if any).
+- Rings and amulets now always have a property.
+- Scrolls can be generated with literary works inscribed on them. Reading these will provide a very small (but persistent) bonus to your character.
+- Added Fafnismol (literary work, scroll) (+1% damage bonus vs. dragons) (dropped by dwarven Mead Halls and Bastions).
+- Added Reginsmol (literary work, scroll) (+1% backstab bonus) (dropped by dwarven Mead Halls and Bastions).
+- Added Alvissmol (literary work, scroll) (+1 mana) (dropped by dwarven Mead Halls and Bastions).
+- "Right-click to use" no longer appears in an item's popup if the item cannot be currently used (i.e. if the unit doesn't fulfill the conditions for a scroll to be used).
+- Fixed issue which caused the stats change of one of the equipped rings to not be displayed properly when two rings are equipped.
+- Added Hildebrandslied (literary work, scroll) (+1% critical strike chance) (dropped by teuton Rathauses and Burgs).
+- Added Brising Round Shield.
+- Added Frankish Spatha.
+- The unique sword Gram is now a Frankish Spatha.
+
+* Map Editor
+- A tooltip now appears when hovering the mouse over a unit type's icon in the editor.
+- Added support for defining map-specific words (for name generation).
+
+* Miscellaneous
+- Added support for damage bonus vs. dragons. This damage bonus affects wyrms, and will affect any other draconic creatures added later to the game.
+- Fixed an issue which caused unit/building proper names to overlap with other parts of the interface if a word in them was too long.
+- Fixed an issue which caused the player to be able to see others' buildings on the minimap if the player destroyed their own town hall.
+- The Brising Clan (dwarf) now has a faction-specific icon for the dwarven level 1 shield (if the player has the Brising Faction Flair DLC).
+- The Custom Game "Advanced Squads" option now includes two cavalry units in each squad.
+- Fixed issue which sometimes caused the game to crash when exiting a scenario.
+
+* Modding
+- Added support for redefining civilizations and factions.
+
+* Multiplayer
+- Fixed a potential desync cause due to units' facing being randomly set when created through a random number generating function that isn't synchronized.
+
+* Music
+- Added 42 new music pieces by Marcelo Fernandez (http://www.marcelofernandezmusic.com).
+- Wyrmsun now features adaptive music pieces, which change according to context (i.e. the music becomes more intense when a battle occurs) (by Marcelo Fernandez) (https://github.com/marcelofg55/oaml).
+
+* Quests
+- The Home of the Boii quest (Teuton) now grants 4 tech points instead of 3.
+- The Treasures of Svarinshaug quest (Dwarf) now grants 3 tech points instead of 2.
+- The Necklace of the Brisings quest (Dwarf) now grants 3 tech points instead of 2.
+- Fixed issue which prevented the player from winning The Binding of Grafvitnir quest (Dwarf) if Grafvitnir was killed.
+
+* Terrain
+- Overhaul of the forest tilesets (by Exidelo).
+
+* Units
+- When right-clicking on a tile-based resource, workers who are already carrying the resource at maximum capacity will now return goods and then begin harvesting.
+- When right-clicking on a unit-based resource, workers who are already carrying the resource at maximum capacity will now begin harvesting after returning goods.
+- Frank Ritters now have their own portrait (if the player has the Frank Faction Flair DLC).
+- Added Teuton Speerkampfer (icon by Jinn).
+- Added a Frank-specific version of the Teuton Speerkampfer.
+- Added a Frank-specific version of the Teuton Krieger.
+- Added a Brising-specific version of the Dwarven Miner.
+- Frank Speerkampfers have their own portrait (if the player has the Frank Faction Flair DLC).
+- Frank Kriegers have their own portrait (if the player has the Frank Faction Flair DLC).
+- Brising Miners have their own portrait (if the player has the Brising Faction Flair DLC).
+- Workers will now look to see if any trees have regrown closer to their drop-off point when going to harvest lumber.
+- Improved worker pathfinding checks when choosing which objects to harvest.
+- Added Goblin Swordsman.
+- Added Dwarven Guard (icon and shield by Jinn, spear-wielding arm animation by badbuckle).
+- Cavalry units, siege weapons, transport ships and gryphon riders now require 2 food instead of 1.
+- Cavalry units now have 9 evasion instead of 10.
+- Workers can now use mines owned by allies.
+- The Ritter graphics now have improved shading (modification by Jinn).
+- New Teuton iron shield unit graphics (by Jinn).
+- Brising Transports now have their own graphics (if the player has the Brising Faction Flair DLC).
+- Added Goblin Headhunter (upgrade of the Goblin Archer) (icon by Jinn).
+
+* Upgrades
+- Update to the Spatha's icon (by Exidelo).
+- Added Long Spear and Pike upgrades for spearmen (icons by Vladislav "iDreamRunner").
+
+-----------------------------------------------------------------------
+- 1.9.9
+-----------------------------------------------------------------------
+
+* Buildings
+- Mercenary Camps now keep a "stock" of 6 Goblin Thieves, which is depleted when they are hired, and is replenished over time.
+- Potions of Healing are now kept in stocks of 6 by stronghold-type buildings.
+- Building unit stocks always begin at 0.
+
+* Factions
+- Renamed the Modsogning Clan (dwarf) to Brising Clan.
+
+* Heroes
+- It is now possible to create custom heroes with faction-specific versions of units (such as the Suebi Krieger).
+
+* Items
+- Cheese and carrots are now buyable at farms (each having a stock of 3).
+- Fixed issue which caused the Potion of Decay to not work properly.
+- Magic items now disappear after a long time if left in the ground (they take four times what it takes a normal item to disappear).
+- Reduced the Kite Shield's armor bonus to +4 (from +5).
+
+* Miscellaneous
+- The correct background is now shown when a match ends in a draw.
+- Update to the Germanic cursor (by Leo).
+- Added a cursor for the Teutons (by Leo).
+- When loading or saving a game or a map, files can now be sorted by date (thanks to marcelofg55).
+- Added loading screen tip about time efficiency bonuses.
+- Improved "Experience" popup tip to say that units receive +15 HP after leveling up if they have exhausted the level up upgrade possibilities, and added a new loading screen tip with the same information.
+
+* Quests
+- Fixed issue which caused The Tomb of Durahn Eikinskjaldi (Dwarf) quest to hang on loading.
+
+* Technologies
+- Writing technologies now provide a 10% boost to buildings' time efficiency, rather than research speed. Time efficiency bonuses affect not only the speed at which the building researches, but also the speed at which it trains and upgrades.
+
+* Units
+- Removed cap of Goblin Thieves a player can have at a single time, as its purpose has been replaced by its hiring cooldown.
+- Added Gnomish Master at Arms, an experience upgrade of the Gnomish Duelist (icon by Leo, based on Jinn's Gnomish Recruit icon).
+- Decreased Gnomish Duelist HP from 65 to 60.
+- Siege engines are now more cautious about attacking a target if that will hurt a friendly unit.
+- Fixed crash which could happen if a unit was already dead when the raft under it was destroyed.
+- Added portrait for the Suebi Krieger (by Leo).
+- Dwarven Yale Riders now cost a bit of lumber, and their gold cost has been slightly decreased.
+- Decreased starting damage for siege engines by 5.
+- Added brown and blond hair variations for Teuton Kriegers.
+- Gnomish Recruits are now cheaper, grant less experience when killed, need less experience to level up, and have a bonus to accuracy and evasion of +1 instead of +2.
+
+-----------------------------------------------------------------------
+- 1.9.8
+-----------------------------------------------------------------------
+
+* AI
+- The AI now has to explore the map.
+- The AI now only harvests trees if no wood piles, tree stumps or logs are present nearby.
+
+* Buildings
+- Town hall class buildings now have 6 sight.
+- Stronghold class buildings now have 9 sight.
+- Mercenary Camps are now never generated closer than 16 tiles to a player's starting location (previously that value was 8).
+
+* Maps
+- Added No Man's Land map (custom), from the Stratagus Media Project.
+
+* Miscellaneous
+- Full screen can now be toggled from within a scenario (thanks to marcelofg55).
+- Fixed multiplayer loading screen crash.
+- Fixed a crash cause which could happen while selecting a faction.
+
+* Units
+- Added Gnomish Duelist, an experience upgrade of the Gnomish Recruit (icon by Leo, based on Jinn's Gnomish Recruit icon).
+- Improved XP required calculation.
+- Decreased the quantity of experience that the dwarven Gryphon Rider requires to level up and that it gives when killed.
+- If a unit has spent all of its level up points, the interface now automatically exits the level up choice submenu.
+
+-----------------------------------------------------------------------
+- 1.9.7
+-----------------------------------------------------------------------
+
+* Buildings
+- Germanic and Teuton smithies now have proper names generated for them.
+
+* Items
+- Added "Frail" magic prefix for armor items and buildings.
+- Added "Vulnerable" magic prefix for armor items and buildings.
+- Added "of Frailty" magic suffix for armor items, rings, amulets and buildings.
+- Added "of Vulnerability" magic suffix for armor items, rings, amulets and buildings.
+
+* Miscellaneous
+- The loading screen now has a background.
+- Loading screen tips and backgrounds now appear when loading a grand strategy map as well.
+- Fixed sluggish sound issue which happened on some systems (thanks to marcelofg55).
+- Fixed crash which could happen when the player was allied to an AI.
+
+* Quests
+- Instead of the Chieftain's Hall stats having lower armor for the On the Vanaquisl mission (germanic), the Vana Chieftain's Hall now has the "Frail" and "of Vulnerability" affixes on Easy and Normal difficulties.
+- Fixed the AI ally in the Battle of Magetobria quest (teuton), so that it is passive (doesn't train troops and attack the enemy), as it should.
+
+* Units
+- The icon of the Gnomish Recruit now has a gray-haired variation (thanks to Leo).
+
+-----------------------------------------------------------------------
+- 1.9.6
+-----------------------------------------------------------------------
+
+* AI
+- AI units now pick up healing items to heal themselves.
+- Improved the efficiency of AI troop regrouping.
+- Fixed issue which caused AI workers to not repair buildings suffering from burning damage, because they thought they were still under attack (and thus that it would be dangerous to repair them).
+- The AI now makes use of gryphon riders in its attacks.
+
+* Buildings
+- Bastions and Burgs now increase the range of ranged units garrisoned within by 1, as guard towers do.
+
+* Factions
+- Fixed issue which made the faction bonuses of the new player be applied to rescued units.
+
+* Map Editor
+- Made it possible to set affixes for any building in the editor.
+
+* Miscellaneous
+- Fixed crash which happened when a missile with splash damage hit a unit during its death animation.
+- Fixed an issue which caused dropped units to sometimes be generated with an incorrect magic affix.
+- Fixed crash which happened when loading a game if the game had been saved while a unit which has a character assigned to it was dying.
+- Enhanced the support for position-based hotkeys to allow players to have position-based hotkeys only for training/building/etc.
+- Tips are now displayed when loading a scenario (thanks to marcelofg55).
+- Added several new tips.
+- Fixed issue which caused the incorrect UI to be loaded after loading a save game.
+- Fixed issue which caused the incorrect music to sometimes be loaded.
+
+* Quests
+- Fixed issue which caused the initial dialogue of The Mead of Poetry quest (dwarf) to play again after loading a saved game of that mission.
+
+-----------------------------------------------------------------------
+- 1.9.5
+-----------------------------------------------------------------------
+
+* Heroes
+- Fixed an issue with custom hero experience carry over.
+
+* Miscellaneous
+- Improved backwards compatibility with old save games.
+
+-----------------------------------------------------------------------
+- 1.9.4
+-----------------------------------------------------------------------
+
+* Abilities
+- Update to the Mace Mastery icon.
+
+* AI
+- Increased the reaction range of AI units.
+- Improved AI response to attacks.
+
+* Grand Strategy
+- Grand strategy saves are now stored in the /wyr/save/grand_strategy/ folder, instead of directly in the /wyr/ one.
+
+* Heroes
+- Persistent heroes now carry over experience (previously only their level was saved). Please note that experience is saved as the percentage of experience in relation to the experience required for the next level-up.
+- Fixed a crash when loading a game which happened if a persistent hero was selected when the game was saved.
+
+* Items
+- Equipment tooltips now show the change in stats, rather than the item's absolute bonuses to stats.
+
+* Map Editor
+- It is now possible to to set magic prefixes and suffixes to mines.
+- Revamped the player properties editing menu.
+- It is now possible to set a player's faction when editing player properties.
+
+* Miscellaneous
+- Fixed display issue with the results screen if a scenario had 8 players.
+- Fixed Linux-specific bug with persistency which prevented heroes and grand strategy saves from being loaded properly (thanks to zenorogue for the help in debugging it).
+
+* Units
+- Dwarven Scouts now have +1 Sight (losing their previous +1 Speed bonus).
+- Added Dwarven Pathfinder (experience upgrade of the Scout) (icon by Jinn).
+
+-----------------------------------------------------------------------
+- 1.9.3
+-----------------------------------------------------------------------
+
+* Abilities
+- The Stun ability can now be autocast (active by default).
+
+* AI
+- The AI now gets shooter defenders in its stronghold-class buildings (previously this happened only to guard towers).
+- AI workers now stop gathering resources to repair (previously they didn't go repair a structure if they were currently harvesting a resource).
+- Improved resource-gathering AI to make the AI workers harvest object resources that are nearby first before harvesting farther away tile resources.
+
+* Factions
+- The faction choice menu now tells the player which color each faction has.
+- An unused color will now be chosen for a player if their faction's color is already used.
+
+* Heroes
+- Fixed crash which happened when the "Persistent Heroes" popup tip triggered by selecting a custom hero.
+
+* Map Editor
+- It is now possible to set magic prefixes and suffixes for the appropriate units in the map editor.
+
+* Miscellaneous
+- Loading screen improvements (thanks to marcelofg55).
+
+* Units
+- Added 26 personal names for horses based on horses from Norse mythology and Bohemian legends.
+
+-----------------------------------------------------------------------
+- 1.9.2
+-----------------------------------------------------------------------
+
+* Buildings
+- Gold, Silver and Copper Deposits and Mines can now have magic prefixes and suffixes, and can be unique as well (starting gold mines aren't generated with affixes).
+- Added The Wedding Veil (unique gold deposit/mine).
+- The "Sturdy" and "Impregnable" magic prefixes are now available for deposits/mines.
+- Added "Replenishing" magic prefix for deposits/mines (+1 Resource Replenishment).
+- Added "of Replenishment" magic suffix for deposits/mines (+1 Resource Replenishment).
+- Added "Dwindling" magic prefix for deposits/mines (-1 Resource Replenishment).
+- Added "of Diligence" magic suffix for deposits/mines (+10% Time Efficiency Bonus).
+- Added Shorbear Hold (unique dwarven Bastion).
+- Unique buildings provide a greatly increased chance of magic or unique items dropping.
+- Added "Industrious" magic prefix for deposits/mines (+10% Time Efficiency Bonus).
+- Added Smitna (unique silver deposit/mine).
+- Added Esel (unique silver deposit/mine).
+
+* Maps
+- The Wedding Veil (unique gold deposit/mine) is now always present in the Prague map (including when the map is used for The Home of the Boii quest).
+
+* Miscellaneous
+- Moved "Build Structure" button to the bottom row.
+- Fixed an issue which caused a button's popup to continue being drawn after the button "level" had changed (i.e. if a submenu had been selected like the "Build Structure" one).
+- A player's units will now be revealed 30 seconds after the loss of the last town hall.
+- Fixed a Linux-specific freeze issue (thanks to marcelofg55).
+- Slightly changed the color unique item names have.
+- Encyclopedia categories are now in alphabetical order.
+- Added an encyclopedia category for runic suffixes.
+
+* Quests
+- In the Hills of the Shorbear Clan quest (dwarf), the starting Shorbear Bastion is now the unique Shorbear Hold.
+
+* Units
+- Organic units no longer drop items unless they have a character assigned to them.
+- The name of units who have characters assigned to them now appears in orange (as with unique items).
+- The probability of a magic or unique item dropping from a unit is now linked to the unit's level (rather than only whether it is assigned to a character or not, as was previously).
+
+-----------------------------------------------------------------------
+- 1.9.1
+-----------------------------------------------------------------------
+
+* Miscellaneous
+- Fixed issue which caused the C key to center on the selected unit, rather than Ctrl+C or Alt+C, as intended.
+- To prevent conflicts with command button hotkeys, the hotkey for selecting the entire army is now Alt+Q, rather than Q.
+- To prevent conflicts with command button hotkeys, the hotkey for selecting all visible units of the same type as the currently selected one is now Alt+W, rather than W.
+
+* Units
+- Fixed issue which caused rescued units to get all upgrades applied to them, regardless of whether their new owner had them researched or not.
+
+-----------------------------------------------------------------------
+- 1.9.0
+-----------------------------------------------------------------------
+
+* Abilities
+- Added Mace Mastery passive ability (learnable by Dwarven Stonelords) (icon by Vladislav "iDreamRunner" and Jinn).
+- Added Spear Mastery passive ability (learnable by Goblin Spearmen) (icon by Vladislav "iDreamRunner" and Jinn).
+- Added Stun active ability (learnable by Dwarven Stonelords and Yale Riders, Germanic Eralas, Teuton Kriegers and Ritters, and Gnomish Recruits) (icon by Vladislav "iDreamRunner").
+
+* AI
+- Updated the AI to make use of ships.
+
+* Buildings
+- The Dwarven and Teuton Dock buildings are now buildable in RTS mode.
+- Dwarven buildings now have 20% fire resistance, to represent their heavier use of stone and lesser use of wood in construction (making their structures less flamable).
+
+* Items
+- Added "of Slaughter" magic suffix for weapons (+3 damage).
+- The unique broad sword Laevatein now has +7 damage as its effect.
+- Items are no longer destroyed by splash damage when laying on the ground.
+
+* Map Editor
+- Fixed an issue which caused no cursor to appear if editing a map in which the first player belong to certain NPC civilizations.
+
+* Miscellaneous
+- Fixed issue which caused part of the game screen to be black after playing the Tomb of Durahn Eikinskjaldi quest.
+- Added drop-down graphics for the Dwarves and Germanics (by Jinn).
+- New spear icon (by Vladislav "iDreamRunner").
+- Toned down the scrolling speed when CTRL is held.
+- Added option to have position-based hotkeys (i.e. the first command button has the "Q" hotkey, the second "W", and so forth).
+
+* Quests
+- The Battle of Magetobria quest (Teuton) now gives 3 technology points instead of 2.
+- The Razing of Opitergium quest (Teuton) now gives 3 technology points instead of 2.
+- The A Rocky Home quest (Dwarf) now gives 2 technology points instead of 1.
+- The Treasures of Svarinshaug quest (Dwarf) now gives 2 technology points instead of 1.
+
+* Units
+- Added the Transport ship for the Dwarves (graphics by Jinn).
+- Added the Kogge (transport ship) for the Teutons (graphics by Jinn).
+- Added a new popup tip saying that units can earn experience (triggered when an organic unit is first clicked).
+- Added a new popup tip describing persistent heroes (triggered when a persistent hero is first clicked).
+- Improved the Food popup tip.
+- Added a new popup tip for potions of healing.
+
+-----------------------------------------------------------------------
+- 1.8.6
+-----------------------------------------------------------------------
+
+* Maps
+- Added gold rocks to the Scandinavia map.
+- Added gold rocks to the Southern Tunnels map.
+- Removed the Central Great Britain, France, Iberia, North America, North Italy, Southern Central Europe, Southern Great Britain and South Italy maps.
+
+* Units
+- Gnomish Recruits who are persistent heroes can now equip mace-class items (such as hammers and mining picks).
+- Gnomish Recruits now display a hammer in their graphics if a hammer is equipped.
+- Gnomish Recruits now display a mining pick in their graphics if a mining pick is equipped.
+
+-----------------------------------------------------------------------
+- 1.8.5
+-----------------------------------------------------------------------
+
+* Miscellaneous
+- Fixed a crash cause.
+- Added flaming throwing axe graphics (by Vladislav "iDreamRunner").
+
+* Units
+- Eralas now use the iron long sword graphics if they have a Spatha equipped.
+
+-----------------------------------------------------------------------
+- 1.8.4
+-----------------------------------------------------------------------
+
+* Items
+- Weapons that have no effect now show "+0 Damage" in their tooltip.
+- Shields that have no effect now show "+0 Armor" in their tooltip.
+- Boots that have no effect now show "+0 Speed" in their tooltip.
+- New graphics for boots when they are laying on the floor (by Vladislav "iDreamRunner").
+
+* Miscellaneous
+- Fixed the color of the gold processing bonus text in the interface.
+
+* Quests
+- Increased starting goblin defense forces in the Gathering Materials quest to prevent the player easily rushing them.
+- Added melee troops to the starting Shorbear defense forces in the Hills of the Shorbear Clan quest to prevent the player from being able to destroy the Shorbear Hold with a single ballista.
+- The Caverns of Flame quest (dwarf) now grants 2 technology points instead of 1.
+- The Razing of Opitergium quest (teuton) now grants 3 technology points instead of 2.
+- Fixed a crash cause in the Hills of the Shorbear Clan quest.
+
+* Units
+- Added a new sound for when a siege engine fires (by Wildfire Games).
+- The graphics for the missile of the Teuton Catapult and the Goblin War Machine now change depending on whether they cause fire damage or not (non-flaming catapult rock missile graphics by Vladislav "iDreamRunner").
+- Germanic Skutans, Goblin Archers and Dwarven Ballistas now use flaming missile graphics if they cause fire damage (graphics modification by Vladislav "iDreamRunner").
+
+* Upgrades
+- Added Alchemy upgrade for the Dwarves and the Teutons (ranged and siege units deal fire damage, requires Writing) (icon by Vladislav "iDreamRunner").
+- Updated Throwing Axe and Arrow upgrade tooltips to represent that they increase damage by 2 rather than 1.
+
+-----------------------------------------------------------------------
+- 1.8.3
+-----------------------------------------------------------------------
+
+* AI
+- Improved resource-gathering AI.
+- Fixed some AI issues for certain quests.
+
+* Quests
+- Fixed issue which caused silver and copper to sometimes be generated instead of gold for the Gathering Materials quest.
+- Fixed issue which gave a small random chance for the Shinsplitter gold mine to not be created in the proper position in the Hills of the Shorbear Clan quest.
+
+-----------------------------------------------------------------------
+- 1.8.2
+-----------------------------------------------------------------------
+
+* Buildings
+- Town Hall-type and Stronghold-type buildings can now drop hammers, mining picks, boots, rings and amulets.
+
+* Items
+- Units who have inventories now auto-use healing items if they are too low on health.
+- Cheese and carrots now heal 5 HP instead of 3.
+- Added three new runic magic suffixes, "of Aedi", "of Ergi", "of Othola" and "of Thurs".
+- Cheese and carrots can now be carried (icon graphics by Vladislav "iDreamRunner").
+- Added equippable amulet items (graphics by Vladislav "iDreamRunner").
+- Added "of Strength" suffix for amulets and rings.
+- Added Brisingamen (unique amulet).
+
+* Miscellaneous
+- Fixed an issue which caused persistent heroes' items to be duplicated when loading a saved game.
+
+* Units
+- Added a new icon for chests (icon graphics by Vladislav "iDreamRunner").
+
+* Upgrades
+- The Dvalic Runewriting's description now correctly shows its effects in the tech tree screen.
+
+-----------------------------------------------------------------------
+- 1.8.1
+-----------------------------------------------------------------------
+
+* Items
+- Fixed issue which prevented units without inventories from picking up power-ups.
+- Fixed issue which prevented the damage bonus of "of Perfuration" weapons from appearing in the tooltip if the base weapon had +0 damage.
+- Added the "of Os" magic suffix (+1 Thorns damage), named after the Anglo-Saxon rune Os. This suffix is dropped only by Teuton smithies.
+
+* Miscellaneous
+- When units are attacked, now their personal names appears in the notification alongside their unit type's name (previously only the unit type's name appeared).
+- Fixed a save game loading issue.
+- Fixed an issue which caused custom heroes to duplicate in certain circumstances when loading a saved game.
+
+* Quests
+- There is now text in the quests screen indicating how many quests of the total have been completed for that world.
+- Fixed an issue with the Closing the Gates quest (Dwarf) which caused its initial dialogue to re-run after loading a saved game of that scenario.
+
+* Units
+- Fixed issue which caused units to try to walk up to enemies even though there was a door between them.
+- Fixed issue which caused the NPC unit Long Swordsman to not have its graphics show up properly.
+
+-----------------------------------------------------------------------
+- 1.8.0
+-----------------------------------------------------------------------
+
+* Buildings
+- Guard Towers now provide +1 range for the ranged units attacking from within them.
+- Buildings no longer provide experience when destroyed.
+- Buildings now always drop items when destroyed.
+- There is now a chance that a horse or a yale will appear when a Stables or Yale Pen building is destroyed, respectively.
+
+* Grand Strategy
+- Decreased the probability of revolts while increasing the amount of rebel troops per revolt, to make revolts more significant and less of a nuisance.
+
+* Heroes
+- Custom heroes can now be created in the quest interface, and if one is selected the hero will appear alongside your starting units in quest scenarios. Custom heroes are also available in the grand strategy mode or (single-player) custom games if an appropriate civilization is selected.
+- Gnomish custom heroes can be created for play with the dwarves.
+
+* Items
+- Persistent heroes, Stonelords and Gryphon Riders now have an inventory in which they can carry items (such as potions). Other units can still use potions by right-clicking on them, but they can't carry them around. Items are saved for persistent heroes.
+- Added weapon and shield items. These can be equipped by right-clicking, and will replace the bonuses of the weapon/shield technologies with those of the item.
+- Added equippable boot items.
+- Added equippable rings items (ring icon graphics by Vladislav "iDreamRunner"); each hero can equip two of them.
+- AI units now have a chance to drop items.
+- Dropped items now have a chance of having a magic prefix or suffix, as well as a chance of being a unique item (the probability of getting a magic or unique item from a building is doubled).
+- Added Brimir (unique broad sword).
+- Added Laevatein (unique broad sword).
+- Added Gram (unique spatha).
+- Added Hrotti (unique spatha).
+- Added Rithil (unique spatha).
+- Added Toporik (unique bearded throwing axe).
+- Added Svalin (unique bronze shield).
+- Added Andvaranaut (unique ring).
+- Added Draupnir (unique ring).
+- The encyclopedia now has information on items, item affixes and unique items.
+
+* Miscellaneous
+- Units' names now appear in a tooltip when they are hovered.
+
+* Units
+- Improved the calculation of the XP required for level up.
+- Improved the XP bar display.
+- Germanic Skutans and Goblin Archers no longer use different animations for melee and ranged attacks.
+- Blood Bats and Dread Bats now give more experience.
+- Dread Bats now deal less damage.
+- Blood Bats and Dread Bats now eat Snigills.
+
+-----------------------------------------------------------------------
+- 1.7.5
+-----------------------------------------------------------------------
+
+* Heroes
+- The heroes' icons in the encyclopedia now show up with their faction's player color (rather than their civilization's default player color, as was the case previously).
+- The heroes' factions are now displayed in their encyclopedia entries.
+
+* Map Editor
+- Fixed crash which occurred when right-clicking a unit to edit its properties.
+
+* Quests
+- Fixed issue which caused the triggers of the Mead of Wisdom quest (dwarf) to not occur properly.
+
+-----------------------------------------------------------------------
+- 1.7.4
+-----------------------------------------------------------------------
+
+* Maps
+- Fixed an issue which caused the Scandinavia and Svafnir's Lair maps to crash.
+
+-----------------------------------------------------------------------
+- 1.7.3
+-----------------------------------------------------------------------
+
+* Buildings
+- Added Dwarven Dock (graphics by Jinn) (requires a Lumber Mill) (for now only available in the Grand Strategy mode and through the editor).
+- Added Teuton Dock (graphics by Jinn) (requires a Lumber Mill) (for now only available in the Grand Strategy mode and through the editor).
+
+* Grand Strategy
+- Building a Dock is now necessary for fishing and for attacking provinces through water.
+
+* Quests
+- Fixed issue with quest icon player color.
+
+-----------------------------------------------------------------------
+- 1.7.2
+-----------------------------------------------------------------------
+
+* Buildings
+- Fixed issue which sometimes caused the Teuton town hall to briefly flicker before changing graphics after the research of Masonry.
+
+* Grand Strategy
+- Added three new dwarven characters who may potentially become rulers: Oin, Andvari and Regin.
+- Added Hordaland province in Norway.
+- Improved the performance of the grand strategy hero code.
+- Added Orkney province off the coast of Scotland.
+
+* Heroes
+- Thoroughly reworked the hero code. Heroes are now saved in the "heroes.lua" file instead of "preferences.lua".
+
+* Maps
+- Fixed issue with random map generation which caused bridges to sometimes not fully appear.
+
+* Quests
+- Fixed issue which caused nothing to be clickable in-game after the initial quest dialogue, if the player had played a grand strategy game just before.
+
+* Units
+- Added two new name prefixes and one new name suffix for yales.
+- Units can now have gray hair without having the old trait (like certain dwarven heroes do).
+- An icon will now show up in the upper-right corner of the screen if you have units with level up upgrades available.
+
+-----------------------------------------------------------------------
+- 1.7.1
+-----------------------------------------------------------------------
+
+* Grand Strategy
+- Added Bornholm province.
+- Added the Burgundian succession line of Gundahar (the historical Burgundian king who became Gunnar in the Norse myths and Günter in the Nibelungenlied).
+- Fixed issue which caused all resources of a particular type in a province to appear worked if a single resource of that type was worked.
+- Fixed issue with playing the Asa Tribe in the random world map.
+- Added tooltip to the "World" drop-down for the grand strategy game setup.
+
+* Quest
+- Fixed crash which happened in certain quests.
+
+* Units
+- The Germanic Skutan is now drawn in layers.
+- Improvement to the Suebi Krieger's east/west walk animations.
+- Fixed issue which caused Marbod's name to appear blank.
+- The unit training timer will now reset to 0 if the player lacks food to train the unit (previously the timer went to completion but the unit wouldn't actually be trained until the player had the necessary food).
+
+-----------------------------------------------------------------------
+- 1.7.0
+-----------------------------------------------------------------------
+
+* Grand Strategy
+- Dwarves now start with plow in the first start date.
+- Dwarven provinces now start with 4 workers.
+- Fixed issue with "The Necklace of the Brisings" mission event which caused the enemy to be able to build, and to start with goblin infantry instead of dwarves.
+- Fixed tactical battle crash.
+- Factions can now have rulers, who affect administrative efficiency (and thus resource/research production). To view your faction's ruler and the related bonus, click the main hall (or stronghold), and then the "Show Ruler" button. When rulers die, they are succeeded by a child of theirs (if the faction is a tribe or if it is a monarchical polity), or (in the case of republics or tribal/monarchical factions with no heirs) by a chosen character living in the faction's borders.
+- Added a succession of mythical Germanic rulers, from the earliest start date to the settlement of Scandinavia.
+- Set Modsognir as the Modsogning Clan's ruler in the earliest Nidavellir start date.
+- Set Durstorn as the Norlund Clan's ruler in 1 BC.
+- Set Marbod as the Marcomanni Tribe's ruler in 9 BC.
+- Added two new events for the Asa Tribe about Tror.
+- Fixed bug which caused the "Quit To Menu" button to be available despite being disabled by pressing its hotkey.
+- Set Ariovistus as the Suebi Tribe's ruler in 71 BC.
+- Set Glonoin as the Shorbear Clan's ruler in 1 BC.
+
+-----------------------------------------------------------------------
+- 1.6.2
+-----------------------------------------------------------------------
+
+* Quests
+- Fixed bug with the "Westward Migration" quest.
+
+-----------------------------------------------------------------------
+- 1.6.1
+-----------------------------------------------------------------------
+
+* Grand Strategy
+- Fixed crash which happened if the player attacked an empty province with the automatic battles option disabled.
+
+* Units
+- Germanic (and Teuton) Skutans, Dwarven Scouts, Dwarven Gryphon Riders and Goblin Archers now have 1 more damage.
+
+* Upgrades
+- Arrow and throwing axe upgrades now increase damage by 2 instead of 1.
+
+-----------------------------------------------------------------------
+- 1.6.0
+-----------------------------------------------------------------------
+
+* Buildings
+- Reduced the cost of the copper and silver mines.
+
+* Factions
+- Added a new Germanic faction, the Volsung Tribe.
+- Factions can now be chosen in-game.
+- Factions can now have unit types of their own which replace or supplement their civilization's unit types.
+- Factions can now have a parent faction (from which they inherit units).
+- Set the Suebi Tribe as the parent faction of the Buri Tribe, Marcomanni Tribe, Quadi Tribe, Semnone Tribe and Galicia.
+- Factions now have faction-specific bonuses.
+- Added a new Dwarven faction, Joruvellir (polity).
+- Added the Bavarian Tribe to the encyclopedia faction entries.
+
+* Grand Strategy
+- Fixed issue which caused labor to not be allocated after loading a saved game.
+
+* Units
+- Added a faction-specific version of the Krieger for the Suebi Tribe.
+- Added graphics for a Suebi shield, used by their Krieger after Iron Shield has been researched (graphics by Jinn).
+
+-----------------------------------------------------------------------
+- 1.5.2
+-----------------------------------------------------------------------
+
+* Factions
+- Added two new Germanic factions, the Skjoldung Tribe and the Yngling Tribe.
+
+* Grand Strategy
+- Added a new event, "Skjold's Domain", in which the southern lands of the Asa Tribe are given to the Skjoldung Tribe.
+- Added the Iceland province to the Earth map.
+
+* Map Editor
+- The editor now gives an error message when trying to save a map without any person player.
+
+* Miscellaneous
+- Fixed bug which caused a crash when changing the resolution from within a scenario, if the game had to draw a health bar.
+- Maps with no person players are no longer selectable in the map dropdown.
+
+-----------------------------------------------------------------------
+- 1.5.1
+-----------------------------------------------------------------------
+
+* Buildings
+- Updated dwarven Sentry Tower and Guard Tower icons.
+
+* Grand Strategy
+- Fixed grand strategy random map generation to produce silver and copper resources.
+
+* Miscellaneous
+- Maps are now saved directly as SMP and SMS files, instead of being saved within a compressed GZ file.
+- Fixed a bug which caused a health bar to be shown for decoration units.
+
+* Multiplayer
+- Fix to IP address validation code (to prevent the game from repeatedly trying to connect to an invalid IP address).
+- The IP address to which the player is trying to connect is now shown while in the "Connecting..." panel.
+
+-----------------------------------------------------------------------
+- 1.5.0
+-----------------------------------------------------------------------
+
+* Buildings
+- Added silver deposit, mine and rocks (graphics by Jinn). Silver is converted at a 50% rate to gold when processed.
+- Added copper deposit, mine and rocks (graphics by Jinn). Copper is converted at a 25% rate to gold when processed.
+
+* Grand Strategy
+- Made clearer what the numbers in the town hall interface represent.
+- Worked resource tiles now show how much they produce when being hovered over.
+- Fixed issue which caused the "OK" button to not appear in the Stables/Yale Pen interface.
+- Fixed issue with the "Northwards to the Sea" event which prevented it from triggering.
+- Added silver and copper resources to the grand strategy map.
+
+* Map Editor
+- Fixed issue which caused metal rocks placed with the editor to have 50000 of their resource stored by default, instead of 1000 as they should have.
+
+* Miscellaneous
+- Fixed an issue which caused a savegame crash.
+
+-----------------------------------------------------------------------
+- 1.4.1
+-----------------------------------------------------------------------
+
+* Grand Strategy
+- Tip added explaining the relationship between workers and food storage.
+- Fix to menu button pause issue.
+
+-----------------------------------------------------------------------
+- 1.4.0
+-----------------------------------------------------------------------
+
+* Abilities
+- Added the learnable ability Deadly Precision (icon by Jinn), which increases critical strike chance by 10%.
+- Decreased Critical Strike's bonus to 10%.
+- Added the learnable ability Eagle Eye (icon by Jinn), which increases accuracy by 2.
+
+* Buildings
+- The Teuton Farm now changes its graphics after Masonry is researched (new graphics by Jinn).
+- Reworking of the shadows of the Gnomish and Goblin buildings (by Jinn).
+- Reworking of the shadows of the Mercenary Camp (by Jinn).
+- The Teuton Smithy now changes its graphics after Masonry is researched (new graphics by Jinn).
+- Town hall type buildings now grant 5 food instead of 1.
+- Added Teuton Stables and Dwarven Yale Pen (graphics by Jinn).
+- Buildings now lose 1 HP per second when burning intensely (below 50% health).
+
+* Grand Strategy
 - The minimap no longer stops functioning if toggling full screen while playing a grand strategy game.
+- Building lumber mills in a province now increases that province's lumber demand.
+- The administrative efficiency of a province can now be seen in the town hall's interface (administrative efficiency affects production and research; it is by default 100%, but there is a 25% penalty to it if the province is of a different culture than its owner).
+- Added the possibility of provinces revolting if they are not of the same culture as their owner, or if they have been conquered recently.
+- AI factions now attack through water, if there is only one water province separating them from an enemy province.
+- Hill graphic transitions update (by Jinn).
+- Greatly increased the proportions of the Earth map.
+- New Earth provinces: Abruzzo, Aetolia, Alsace, Apulia, Augsburg, Baden, Bessarabia, Boeotia, Bosnia, Bremen, Brunswick, Bukowina, Calabria, Campania, Carniola, Corinth, Courland, Crimea, Dalmatia, Dobruja, Drenthe, East Friesland, Epirus, Estonia, Euboea, Farther Pomerania, Franche Comte, Franconia, Friesland, Hanover, Hesse, Highland Scotland, Hither Pomerania, Holstein, Istria, Latvia, Lauenburg, Liguria, Lithuania, Lombardy, Lorraine, Lower Lusatia, Lower Rhine, Lowland Scotland, Magdeburg, Malta, Mecklenburg, Modena, Montenegro, Moravia, Moselle, Neumark, Normandy, Oldenburg, Overijssel, Palatinate, Palermo, Pannonia, Parma, Piedmont, Pomerelia, Provence, Rhodes, Rhodope, Savoy, Scania, Schleswig, Skopje, Slovakia, Syracuse, Thessaly, Thuringia, Tuscany, Umbria, Upper Lusatia, Upper Saxony, Venetia, Vojvodina, West Galicia, Wurtemberg, Zealand.
+- New Earth water provinces: Bristol Channel, Celtic Sea, Gulf of Bothnia, Gulf of Finland, Gulf of Riga, Inner Seas, Kattegat, Lake Vättern, Lake Wener, Sea of Azov, Sea of Marmara, Skagerrak.
+- Players can now choose any year between 3000 BC and 71 BC as the starting date for Earth.
+- Players can now choose any year between 3000 BC and 550 AD as the starting date for Nidavellir.
+- Burgs and Bastions now provide two guard towers in defensive battles.
+- Tile tooltips are now drawn as popups in the bottom-left corner of the map, instead of being drawn below the minimap.
+- Interface tooltips are now drawn as popups.
+- Provinces now show a (cosmetic) population number.
+- Added a gold deposit in the Lyr province.
+- Stone and lumber are now harvested from a tile only if a quarry or timber lodge is present there (resource building tile graphics by Jinn).
+- New food resources: grain (produced by grain farms), mushrooms (produced by mushroom farms) and fish (produced by settlements adjacent to water); contrary to other resources, food is stored by the province, not by the faction (resource building tile graphics by Jinn).
+- Provinces now have worker units, who contribute to the province's labor pool (used for producing resources) and consume food (except for workers who are employed in food-producing occupations, who don't contribute to food consumption).
+- When a province accumulates 10,000 food, its population will grow, with the creation of a new worker.
+- Training military units now requires a worker (you cannot however take the last worker unit away from a province).
+- The Wood Plow and Iron-Tipped Wood Plow technologies are now researchable in grand strategy mode (each provides +100% to food production).
+- The Bountiful Harvest event now grants additional food in every province, rather than giving extra gold to the player.
+- Added an enormous number of new factions to populate historical Europe.
+- Grand strategy gold mine graphics have been reworked, and now have player color (by Jinn).
+- New ocean tile variations (by Jinn).
+- The Asa migration event chain (if followed to the end) now results in a unified Asa Tribe holding the whole conquered territory.
+- Teuton settlements now have a different appearance if masonry is researched (graphics by Jinn).
+
+* Maps
+- Improvements to the generation of the Belfort, Braga, Malmo, Novgorod, Oderzo, Regensburg, Salzburg and Tanais maps.
+- Changed the river layout of the Regensburg map.
+
+* Miscellaneous
+- A idle worker button now appears in the upper right corner of the screen if there are any idle workers.
+- Fixed a few minor issues with button clicking.
+- Encyclopedia, tech tree and quest tooltips are now drawn as popups.
+- Added new Gnashorn and Yale backgrounds (used for Wyrmsun with permission).
+- In the video options screen, the resolution is now changed only after pressing "OK", instead of immediately when using the drop-downs.
+
+* Modding
+- Added the possibility of making units have a damage bonus against buildings, against giants (with a corresponding "Giant" tag to be used by units) or against air units.
+- Added resistances against hack, pierce and blunt damage.
+- Added new types of damage with their respective resistances: fire, cold, arcane, lightning, air, earth and water.
+- The Steam version of Wyrmsun will now also identify mods in the /mods/ folder, instead of only ones available through the Steam Workshop.
+
+* Quests
+- The Home of the Boii and Moving into Galicia quests (Teuton) now give 3 technology points instead of 2.
+- The Necklace of the Brisings and The Binding of Grafvitnir quests (Dwarf) now give 2 technology points instead of 1.
+- The Hills of the Shorbear Clan quest (Dwarf) now gives 3 technology points instead of 2.
+- The allied tribes in The Home of the Boii quest now have one Ritter each in place of a Krieger they previously had.
+- Fixed an issue which caused the tech tree menu not to be brought up when finishing a quest after loading a game.
+
+* Units
+- A unit type's bonus against mounted units, bonus against buildings, bonus against giants, bonus against air and backstab bonus now appear in its popup.
+- The Dwarven Yale Rider is now trainable, if the player has a Yale Pen and a Smithy.
+- Added Horse (unit graphics by b_o and icon by Jinn).
+- Fixed the display of the mercenary hiring popup.
+- Dwarven Gryphon Riders are now trainable (they require a Lumber Mill and a Bastion to be trained).
+- Germanic and Teuton archers now have a 50% damage bonus against air units.
+- Added Teuton Ritter (icon by Jinn and unit graphics by badbuckle).
 
 -----------------------------------------------------------------------
 - 1.3.3

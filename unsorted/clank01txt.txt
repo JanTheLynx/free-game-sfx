@@ -1,0 +1,5 @@
+author: bone666138
+license: CC-BY
+origin: https://freesound.org/people/bone666138/sounds/198854/
+
+safe-click

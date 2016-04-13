@@ -1,0 +1,7 @@
+author: SketchyLogic
+license: CC-BY
+origin: http://opengameart.org/content/isometric-medieval-city-sim-assets
+
+Here are a variety of assets that I created for use in an abandoned fantasy/medieval city simulation game. Included are a dozen or so building sprites, a character sheet for several citizens' walking animations, one piece of almost-looping music, and three sound effects.
+
+Many of the sprites borrow heavily from the beautiful outside tileset by Yar, and the medievil tileset by Seth Galbraith. However, you'll notice that I color graded the palette to suit my needs, so sprites can't be copy-pasted from this project to the other tilesets (or vice versa) without a little work.

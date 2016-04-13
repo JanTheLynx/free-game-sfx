@@ -1,0 +1,5 @@
+author: SoundEnsemble
+license: Public Domain (CC0)
+origin: https://freesound.org/people/SoundEnsemble/sounds/238688/
+
+Note I've edited the pitch to make bark sound more fat --Nikita Sadkov

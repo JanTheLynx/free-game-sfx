@@ -1,0 +1,5 @@
+encounter.ogg http://www.freesound.org/samplesViewSingle.php?id=2254
+attack.ogg http://www.freesound.org/samplesViewSingle.php?id=2254
+pain.ogg http://www.freesound.org/samplesViewSingle.php?id=2247
+by Andrew Duke  
+This work is licensed under a Creative Commons Sampling Plus 1.0 License. 

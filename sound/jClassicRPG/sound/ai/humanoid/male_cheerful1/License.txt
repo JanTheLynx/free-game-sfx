@@ -1,0 +1,2 @@
+All files in this directory (c) 2009 by Magnulus @ magnulus.com
+Licensed under CC-BY-SA 3.0 http://forum.freegamedev.net/index.php?t=msg&th=2212&start=0

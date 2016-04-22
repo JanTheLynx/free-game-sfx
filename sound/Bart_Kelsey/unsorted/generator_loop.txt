@@ -1,0 +1,7 @@
+Author: Bart Kelsey (http://opengameart.org/users/bart)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/steam-boiler-sound-loop
+
+For Tempest in the Aether.  Attribution appreciated. :)
+
+Note:  This was built completely with a synthesizer -- specifically Image-Line's Ogun, which does some nice metal type sounds.

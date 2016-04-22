@@ -1,0 +1,5 @@
+Author: Bart Kelsey (http://opengameart.org/users/bart)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/space-laser
+
+A flanged, reverberating sound suitable for sci-fi games.

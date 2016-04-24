@@ -1,0 +1,35 @@
+Description
+===========
+
+  This package contains the sound-effects used by Heroes.  It can
+be installed separately.
+
+
+License
+=======
+
+   These files are distributed under the terms of the GNU General 
+Public License.  See the file `COPYING' for details.
+
+
+Latest version
+==============
+
+  New versions of this packages will be available at SourceForge.
+See the home page of Heroes:  http://sourceforge.net/projects/heroes/
+
+
+Installation
+============
+
+  This package use autoconf and automake.  See the file `INSTALL' for
+generic instructions.  To have these sound-effects integrated in
+Heroes, use the same --prefix and --datadir options when configuring
+both packages.
+
+Bug reports, feed-back
+======================
+
+ heroes-discuss mailing list:  heroes-discuss@lists.sourceforge.net
+
+ See the AUTHORS file for authors' e-mail addresses.

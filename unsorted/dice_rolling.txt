@@ -1,0 +1,5 @@
+Author: Vitor da Silva Goncalves
+License: LGPL 2.1, LGPL 3.0
+Origin: http://opengameart.org/content/5-dice-rolling
+
+Five sounds of dice rolling

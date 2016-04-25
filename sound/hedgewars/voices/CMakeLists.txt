@@ -1,0 +1,17 @@
+foreach(dir
+    British
+    Classic
+    Default
+    Default_es
+    Default_ru
+    Default_uk
+    HillBilly
+    Mobster
+    Pirate
+    Robot
+    Russian
+    Singer
+    Surfer
+    )
+    add_subdirectory(${dir})
+endforeach(dir)

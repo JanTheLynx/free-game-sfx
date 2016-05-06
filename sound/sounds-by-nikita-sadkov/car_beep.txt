@@ -1,0 +1,2 @@
+author: Nikita Sadkov
+license: CC-BY-SA

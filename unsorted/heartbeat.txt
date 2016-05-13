@@ -1,3 +1,0 @@
-author: Independent.nu
-licenseL CC0 (Public Domain)
-origin: http://opengameart.org/content/heartbeat-single-sound

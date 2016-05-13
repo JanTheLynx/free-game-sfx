@@ -1,0 +1,6 @@
+author: Manuel Moss
+license: GPL2
+origin: http://www.armagetronad.org/
+        https://sourceforge.net/projects/armagetron/
+        http://armagetron.sf.net/
+        https://sourceforge.net/projects/armagetronad/

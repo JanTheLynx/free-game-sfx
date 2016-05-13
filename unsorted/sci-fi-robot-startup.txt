@@ -1,0 +1,3 @@
+author: unfa (http://unfamusic.com/)
+license: GPL2
+origin: http://zero-k.info/Forum/Thread/6216

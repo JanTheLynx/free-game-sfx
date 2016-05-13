@@ -1,3 +1,0 @@
-Author: Blobby Volley 2 Team
-License: GPL2
-Origin: https://sourceforge.net/projects/blobby/

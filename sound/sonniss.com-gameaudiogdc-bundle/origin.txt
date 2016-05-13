@@ -1,0 +1,47 @@
+Author: sonniss.com
+License: Royalty Free (http://www.sonniss.com/gdc-bundle-license/)
+Origin: http://www.sonniss.com/gameaudiogdc2016/
+
+I've removed larges ambient effect and encoded everything to *.ogg to keep size manageable.
+
+"GRANT OF LICENSE
+
+Up on downloading this sound effects collection, the Licensor grants the Licensee, a worldwide, non-exclusive, royalty-free license to use all or any of the sound effects in accordance with the terms and conditions laid out in this Agreement.
+
+RIGHTS GRANTED
+
+a) Licensee may use the licensed sound effects on an unlimited number of projects for the entirety of their life time.
+
+b) Licensee may use and modify the licensed sound effects for personal and commercial projects without attribution to the original creator.
+
+c) Licensee may freely distribute the licensed sound effects and make an unlimited amount of copies.
+
+d) Licensee may publicly perform a reproduction of the sound effects over any form of medium.
+
+COPYRIGHT
+
+Other than the license rights granted in this agreement, all right, title and interest in the sound effects contained within this collection, is and shall always remain the property of their respective copyright holders.
+
+INDEMNITY
+
+Licensee and Licensor hereby agree to indemnify each other from, and against any and all claims, demands, suits, actions, causes of action, damages, liabilities, charges and expenses, including attorneys fees incurred by each party with respect to any matter that arises as a result of any claim that the Licensed sound effects infringe or violate any rights of any third party or any breach of this agreement.
+
+RESTRICTIONS
+
+a) Licensee may not modify any of the sound effects with intent to claim authorship of the original recording.
+
+b) Licensee may not sell any of the sound effects as they come. (Although the sound effects may be sold as incorporated into licensee project).
+
+LIABILITY
+
+Licensor shall not be liable for any loss of business or business profits, business interruption, or any other form of direct or indirect loss resulting directly or indirectly from the use of any of the licensed sound effects.
+
+JURISDICTION
+
+These Terms are to be governed by and interpreted according to English law. This means a Contract for downloading sound effects through Sonniss, and any dispute or claim arising out of or in connection with it or these Terms will be governed by English law. All disputes arising under them will be subject to the exclusive jurisdiction of the English courts.
+
+This is a binding legal agreement between you (the Licensee), and us (the Licensor). By downloading and using any of the sound effects from the #GameAudioGDC bundle constitutes the acceptance of these terms. 
+
+WARRANTY
+
+Sonniss LTD warrants that it has full authority to license and distribute all of the sound effects libraries under the terms of this agreement and that our products do not infringe on the rights of any third party."

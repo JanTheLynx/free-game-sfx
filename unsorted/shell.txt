@@ -1,3 +1,0 @@
-author: `legoluft`
-license: `Public Domain`
-origin: `https://sourceforge.net/projects/krank/`

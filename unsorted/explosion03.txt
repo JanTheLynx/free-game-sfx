@@ -1,0 +1,3 @@
+author: hc
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/mech-stomp-step-sound

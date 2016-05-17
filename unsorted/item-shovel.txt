@@ -1,0 +1,4 @@
+author: CGEffex
+license: CC-BY
+origin: https://freesound.org/people/CGEffex/sounds/96211/
+//Digging with shovel.wav

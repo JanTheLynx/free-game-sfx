@@ -1,0 +1,5 @@
+Author: Iwan Gabovitch 'qubodup'
+License: CC-BY
+Origin: http://www.freesound.org/people/qubodup/sounds/273509/
+
+Incomprehensible voice loop with my cydark filter applied.

@@ -1,0 +1,7 @@
+Author: Iwan Gabovitch 'qubodup'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/dog-snarl-grunt-grumble
+
+Playing with the dog.
+
+Source file seen here: http://www.freesound.org/people/qubodup/sounds/122183/

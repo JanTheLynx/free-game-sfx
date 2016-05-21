@@ -1,0 +1,10 @@
+Author: Iwan Gabovitch 'qubodup'
+License: CC0 (Public Domain)
+Origin: http://www.freesound.org/people/qubodup/sounds/222501/
+
+A person falls to the ground and coughs a little.
+
+Based on sounds under CC0:
+
+Woman, female, coughing, sniffing.wav by MentalSanityOff
+Stupid Falls by qubodup

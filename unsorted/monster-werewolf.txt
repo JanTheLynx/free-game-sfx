@@ -1,0 +1,5 @@
+Author: limetoe
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/limetoe/sounds/277435/
+
+//passed limetoe's sfx through vocoder

@@ -1,4 +1,4 @@
-Author: Svenskmand
+Author: Casper Kejlberg-Rasmussen 'Svenskmand' (svenskmand@gmail.com)
 License: CC-BY-SA 3.0
 Origin: https://code.google.com/archive/p/jadex-agentkeeper/
 

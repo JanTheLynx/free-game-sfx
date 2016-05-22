@@ -1,3 +1,9 @@
+author: Various
+license: GPL3
+origin: https://github.com/DusteDdk/Wizznic
+        http://sourceforge.net/projects/wizznic/
+        http://wizznic.org/
+
 All media are licensed under GPLv3.
 
 Graphics / Stock material:

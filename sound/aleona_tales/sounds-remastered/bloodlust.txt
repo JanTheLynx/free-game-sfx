@@ -1,7 +1,8 @@
-author: Wolfgang Kohler
+author: David Slimp
 license: GPL2
 origin: http://www.nongnu.org/aleona/
 
+(c) Copyright 2001 by David Slimp
 
 This file is part of FreeCraft Sound Project
 

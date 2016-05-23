@@ -1,7 +1,8 @@
-author: Wolfgang Kohler
+author: Ted Lyngmo
 license: GPL2
 origin: http://www.nongnu.org/aleona/
 
+(c) Copyright 2001 by Ted Lyngmo
 
 This file is part of FreeCraft Sound Project
 
@@ -14,3 +15,6 @@ FreeCraft Sound Project is distributed in the hope that it will be
 useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
+
+2001.07.29	-	Ted Lyngmo <ted@lyncon.se> has created a much better version
+

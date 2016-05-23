@@ -1,0 +1,5 @@
+author: David Slimp, Nikita Sadkov
+license: GPL2
+origin: http://www.nongnu.org/aleona/
+
+edit of the original file

@@ -1,0 +1,5 @@
+author: Nikita Sadkov, Wolfgang Kohler
+license: GPL2
+origin: http://www.nongnu.org/aleona/
+
+This is a edit of original shipyard.wav

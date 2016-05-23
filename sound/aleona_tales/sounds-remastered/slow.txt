@@ -1,0 +1,3 @@
+author: David Slimp
+license: GPL2
+origin: http://www.nongnu.org/aleona/

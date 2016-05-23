@@ -1,3 +1,0 @@
-origin:
-https://sourceforge.net/projects/lgeneral/
-http://lgames.sourceforge.net/index.php?project=LGeneral

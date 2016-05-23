@@ -1,0 +1,6 @@
+author: Markus Koschany
+license: CC-BY-SA
+origin: https://sourceforge.net/projects/lgeneral/
+        http://lgames.sourceforge.net/index.php?project=LGeneral
+
+taken from lgeneral-kukgen sfx pack by Markus Koschany:

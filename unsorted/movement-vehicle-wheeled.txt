@@ -1,0 +1,11 @@
+author: Percy Duke, Markus Koschany
+license: CC-BY-SA
+origin: http://www.freesound.org/people/Percy%20Duke/sounds/24023/
+        https://sourceforge.net/projects/lgeneral/
+        http://lgames.sourceforge.net/index.php?project=LGeneral
+
+taken from lgeneral-kukgen sfx pack by Markus Koschany:
+"The sounds in this directory are sometimes based on sound samples from
+freesound.org. The original source files have been released under the
+Attribution 3.0 Unported (CC BY 3.0) license and were later significantly
+modified so that they could be used as sound files for LGeneral."

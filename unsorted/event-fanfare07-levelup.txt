@@ -1,0 +1,4 @@
+Author: NetHack Falcon's Eye Team
+License: NETHACK GENERAL PUBLIC LICENSE (equivalent to GPL2)
+Origin: http://falconseye.sourceforge.net/
+

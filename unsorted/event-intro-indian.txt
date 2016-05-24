@@ -1,0 +1,9 @@
+Author: noguard (aka PD Spyn Cykil)
+License: CC0 (Public Domain)
+Origin: https://svn.worldforge.org:886/svn/media/trunk/music/artists/nogard/
+
+isolated using SpectraLayers out of a public domain music track.
+
+"Music contained within this directory have no copyright assigned to them and are therefore in the public domain and may be used for any purpose.
+
+Author - noguard (aka PD Spyn Cykil)"

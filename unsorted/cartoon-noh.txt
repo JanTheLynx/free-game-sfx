@@ -1,0 +1,11 @@
+Author: Matthias Le Bidan (Matths)
+License: GPL2
+Origin: http://www.frozen-bubble.org/
+
+"Guillaume Cottenceau: design & programming
+Alexis Younes (Ayo73): graphics & website design
+Matthias Le Bidan (Matths): sound & music
+Kim and David Joham: level editor
+Amaury Amblard-Ladurantie: website coding & graphics support
+
+Originally sponsored by Mandriva."

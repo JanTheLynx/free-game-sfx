@@ -1,0 +1,22 @@
+Author: David McKee 'ViRiX' (http://www.soundcloud.com/virix facebook.com/virixcore dmckee1009@gmail.com)
+License: CC-BY
+Origin: http://opengameart.org/content/magic-sfx-sample
+
+Check also David's asset store:
+https://www.assetstore.unity3d.com/en/#!/content/30508
+
+Hello! I've finally got around to making these magical sound effects. 
+
+Included are five of the 30+ SFX that will be availible by the end of the month in the Unity Store. (link coming soon). Feel free to use these however you want. Let me know what you think or if you have any questions. :)
+
+Sounds:
+- Fire blast
+- Ice blast
+- Wind hit
+- Heal
+- Misc.
+
+Enjoy!
+
+Copyright/Attribution Notice: 
+If you use the effects, it would be great to give me a credit. "Some of the sounds in this project were created by ViRiX Dreamcore (David Mckee) www.soundcloud.com/virix" Thanks

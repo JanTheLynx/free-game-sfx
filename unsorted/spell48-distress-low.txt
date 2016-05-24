@@ -1,0 +1,5 @@
+Author: ignotus
+License: CC-BY
+Origin: http://www.freesound.org/people/ignotus/sounds/16089/
+
+Low pitched harmonic sweep of FM-synth sound with complex, non-harmonic spectrum, with downward portamento and vocal qualities from formant filtering.

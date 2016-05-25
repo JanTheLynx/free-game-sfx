@@ -4,4 +4,4 @@ origin: http://opengameart.org/content/action-sounds
 
 "Most files in the orignal pauliuw's release had been damaged with analog noise buzz, which I have cleaned up completely using SpectraLayers Pro.
 
-This file (Strange Sound.wav) had amplitude clipping, ending in a heavy distortion at several parts, completely destroing high frequencies, so a lot had to be restored by copying from elsewhere." -- Nikita Sadkov
+I have removed the thud sound at the beginning" -- Nikita Sadkov

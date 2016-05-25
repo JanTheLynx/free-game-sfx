@@ -1,3 +1,3 @@
-author: Paulius Jurgelevicius (http://dustychest.tk/)
+author: Paulius Jurgelevicius 'pauliuw' (http://dustychest.tk/ http://opengameart.org/users/pauliuw)
 license: Public Domain (CC0)
-origin: http://opengameart.org/content/dog-sounds
+origin: http://opengameart.org/content/action-sounds

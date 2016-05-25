@@ -1,0 +1,5 @@
+author: Paulius Jurgelevicius 'pauliuw' (http://dustychest.tk/ http://opengameart.org/users/pauliuw)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/monster-or-beast-sounds
+
+The file orinally "Demon Growl.wav" had a cheesy echo/reverb artifact at the end, which I removed.

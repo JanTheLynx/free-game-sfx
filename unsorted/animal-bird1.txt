@@ -1,0 +1,5 @@
+author: Paulius Jurgelevicius 'pauliuw' (http://dustychest.tk/ http://opengameart.org/users/pauliuw)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/forest-bird-sounds
+
+"isolated just a single bird chirp" -- Nikita Sadkov

@@ -1,3 +1,0 @@
-author: Paulius Jurgelevicius
-license: Public Domain (CC0)
-origin: http://opengameart.org/content/stone-rock-or-wood-moved-sound

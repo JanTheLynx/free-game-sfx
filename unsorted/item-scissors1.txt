@@ -1,0 +1,7 @@
+author: Paulius Jurgelevicius 'pauliuw' (http://dustychest.tk/ http://opengameart.org/users/pauliuw)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/action-sounds
+
+"Most files in the orignal pauliuw's release had been damaged with analog noise buzz, which I have cleaned up completely using SpectraLayers Pro.
+
+I have removed buzz and people talking" -- Nikita Sadkov

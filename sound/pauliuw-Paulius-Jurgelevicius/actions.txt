@@ -1,3 +1,0 @@
-author: Paulius Jurgelevicius
-license: Public Domain (CC0)
-origin: http://opengameart.org/content/action-sounds

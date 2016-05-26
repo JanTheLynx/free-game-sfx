@@ -1,0 +1,7 @@
+Author: Some_Person
+License: Public Domain (CC0)
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+        http://www.pdsounds.org/sounds/storm_thunderbolts
+
+"lightning.wav - sampled by Some_Person from http://www.pdsounds.org/sounds/storm_thunderbolts"

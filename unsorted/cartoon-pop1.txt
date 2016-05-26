@@ -1,0 +1,4 @@
+Author: LMH
+License: GPL3, CC-by-sa 3.0 (according to metadata)
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/

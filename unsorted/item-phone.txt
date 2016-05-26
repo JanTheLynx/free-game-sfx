@@ -1,0 +1,6 @@
+Author: gwater
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"phone.wav - self-made by gwater (unused ATM, was used in infoblock.cpp)"' I have cleaned some of the noise."

@@ -1,0 +1,7 @@
+Author: Q.K.
+License: Public Domain (CC0)
+Origin: http://freesound.org/people/Q.K./sounds/56271/
+        http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"gulp.wav - CC0, source http://freesound.org/people/Q.K./sounds/56271/"

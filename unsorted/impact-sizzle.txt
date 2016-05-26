@@ -1,0 +1,6 @@
+Author: lmh.0013@gmail.com
+License: GPL3, CC-by-sa (according to metadata)
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+originally "sizzle.ogg"

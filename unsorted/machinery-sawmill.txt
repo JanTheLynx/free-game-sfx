@@ -1,0 +1,6 @@
+Author: Paulo Morfeo
+License: GPL, CC-by-sa 2.0
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"saw.wav Mill1.wav from LinCity-NG (Data is dual licensed under under the GPL and CC-by-sa-v2 ), created by Paulo Morfeo http://svn.berlios.de/viewcvs/lincity-ng/trunk/data/sounds/Mill1.wav"

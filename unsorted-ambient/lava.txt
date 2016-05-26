@@ -1,0 +1,6 @@
+Author: Bastian Zapf
+License: GPL2
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"lava.wav - submitted as GPL by Bastian Zapf"

@@ -1,0 +1,7 @@
+Author: soundscalpel.com
+License: CC-by
+Origin: http://freesound.org/people/soundscalpel.com/sounds/110393/
+        http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"splash.wav - sound created by soundscalpel.com, licensed under CC-by http://freesound.org/people/soundscalpel.com/sounds/110393/"

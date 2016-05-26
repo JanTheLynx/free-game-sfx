@@ -1,0 +1,6 @@
+Author: Some_Person
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"kick.wav - self-made sound by Some_Person"

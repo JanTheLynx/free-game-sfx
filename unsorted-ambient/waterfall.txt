@@ -1,0 +1,6 @@
+Author: Bastian Zapf
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"waterfall.wav - submitted as GPL by Bastian Zapf"

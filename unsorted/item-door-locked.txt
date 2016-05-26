@@ -1,0 +1,6 @@
+Author: WolfgangB
+License: GPL2, GPL3, CC-by-sa
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"locked.ogg - self-made by WolfgangB GPLv2+CC-by-sa"

@@ -1,0 +1,9 @@
+author: Nikita Sadkov
+license: CC-BY-SA
+origin: https://github.com/saniv/free-game-sfx
+
+An attempt to recreate the "Sight of Evil" sfx from Dungeon Keeper (TWINKLE.WAV). To produce this sound I have used Audacity's paulstrech applied to a synth whoosh sample, spiced with some glitter. The metallic radio tuning sound was drawn manually in SpectraLayer.
+
+It uses following public domain samples.
+Instrument_chimes_quick_soft.aif by vrodge (http://www.freesound.org/people/vrodge/sounds/119543/)
+"chimes bar" by urupin (http://www.freesound.org/people/urupin/sounds/122056/)

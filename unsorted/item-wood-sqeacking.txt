@@ -1,0 +1,9 @@
+Author: gwater
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"door.wav - self-made by gwater (Jun 30 2006 13:42:40 <gwater> ok it's my squeaky step, but it kind of sounds like a door.)"
+
+
+I have cleaned all the buzz and noise out of the original.

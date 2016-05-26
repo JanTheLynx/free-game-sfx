@@ -1,0 +1,8 @@
+Author: sommer
+License: GPLv2, GPLv3, CC-by-SA
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"self-made sound (GPLv2+/CC-by-SA) by sommer 17:34, 7 June 2007 (UTC)"
+
+Original had some amplitude clipping noise at higher freqs, which I have just deleted in SpectraLayers Pro.

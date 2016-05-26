@@ -1,0 +1,6 @@
+Author: wansti
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"coin.wav - self-made sound by wansti". I have removed buzzing noise.

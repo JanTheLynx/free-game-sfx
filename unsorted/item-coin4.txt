@@ -1,0 +1,6 @@
+Author: LMH (lmh.0013@gmail.com)
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+original "coin2.ogg" had buzzing analog cable noise, which I cleaned out.

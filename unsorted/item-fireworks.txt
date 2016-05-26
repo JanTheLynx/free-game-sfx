@@ -1,0 +1,8 @@
+Author: Ricardo Cruz
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"fireworks.wav - submitted as GPL by Ricardo Cruz"
+
+I have edited out what appears to be analog cable buzz using SpectraLayers.

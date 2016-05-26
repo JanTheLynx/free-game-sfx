@@ -1,0 +1,6 @@
+Author: Yaniel
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"brick.wav - a self-made sound submitted by Yaniel, GPLv2+CC-by-sa"

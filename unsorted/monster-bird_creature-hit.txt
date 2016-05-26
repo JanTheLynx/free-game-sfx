@@ -1,0 +1,6 @@
+Author: Nathan McCoy
+License: GPL3
+Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
+
+"fall.wav - added Fri May 14 05:24:24 2004 UTC by sik0fewl. Message was "added sounds from Nathan McCoy" -sommer 22:43, 4 Jan 2007 (CET)"

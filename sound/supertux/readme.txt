@@ -1,6 +1,7 @@
 Author: Super Tux Contributors
 License: GPL3
 Origin: http://supertuxproject.org/download.html
+        https://github.com/SuperTux/supertux/
 
 `LICENSE.txt`
 : The GNU General Public License, under whose terms SuperTux is

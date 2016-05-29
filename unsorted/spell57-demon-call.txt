@@ -5,4 +5,4 @@ origin: http://opengameart.org/content/monster-or-beast-sounds
 
 "Most files in the orignal pauliuw's release had been damaged with analog noise buzz, which I have cleaned up completely using SpectraLayers Pro.
 
-This otherwise great sfx had clicks at the beginningm with I cleaned out." -- Nikita Sadkov
+This otherwise great sfx had clicks at the begining with I cleaned out." -- Nikita Sadkov

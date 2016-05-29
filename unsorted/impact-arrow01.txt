@@ -2,4 +2,4 @@ author: Nikita Sadkov
 license: CC-BY-SA
 origin: https://github.com/saniv/free-game-sfx
 
-done with a few audacity effects.
+drawn in SpectraLayers Pro

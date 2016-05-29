@@ -1,0 +1,5 @@
+Author: _def
+License: CC-BY
+Origin: http://www.freesound.org/people/_def/sounds/346524/
+
+microphone: t.bone SC 440 USB

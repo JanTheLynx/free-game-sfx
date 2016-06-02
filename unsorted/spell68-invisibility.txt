@@ -3,6 +3,8 @@ License: CC-BY-SA
 Origin: https://sourceforge.net/projects/freeorion/
         http://www.freeorion.org/
 
+originally 'alert.ogg'
+
 "FreeOrion is a free and open source community-developed 4X turn-based galactic empire strategy game."
 
 "Artistic or creative content is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.

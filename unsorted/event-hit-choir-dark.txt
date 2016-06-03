@@ -1,3 +1,6 @@
-Author: bone666138
-License: Public Domain (CC0)
-Origin: https://freesound.org/people/bone666138/sounds/274121/
+Author: Nikita Sadkov, bone666138
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-sfx
+
+based of a public domain choir by bone666138:
+https://freesound.org/people/bone666138/sounds/274121/

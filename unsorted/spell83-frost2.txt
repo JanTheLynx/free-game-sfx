@@ -1,0 +1,6 @@
+Author: Nikita Sadkov, Dmitry Urupin, Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/rpg-sound-package
+        http://www.freesound.org/people/urupin/sounds/192415/
+
+A mix of public domain sfx by Dmitry Urupin and CC-BY sfx by Tuomo Untinen

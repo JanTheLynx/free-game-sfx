@@ -1,0 +1,15 @@
+Author: Conrad Parker <conrad@vergenet.net>
+License: Public Domain (CC0)
+Origin: http://www.vergenet.net/~conrad/sounds/gnome-audio/
+
+"Copying, modification and redistribution of these sounds in any medium
+is expressly permitted."
+
+These sounds were made with aube(/metadecks)[1], a synthesis and effects
+program, and edited with sweep[2], a sound wave editor. Thus these sounds
+are entirely original.
+
+[1] aube(/metadecks) is Free Software, available at:
+    http://www.cse.unsw.edu.au/~conradp/aube/
+[2] sweep is Free Software, available at:
+    http://sweep.sourceforge.net/                                           

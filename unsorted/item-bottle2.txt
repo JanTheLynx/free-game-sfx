@@ -1,0 +1,5 @@
+Author: Ingo Ruhnke
+License: GPL2
+Origin: http://pingus.seul.org
+
+originally plop.wav

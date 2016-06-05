@@ -1,3 +1,5 @@
+Author: Juhani Junkala
+License: Public Domain (CC0)
 Origin: http://opengameart.org/content/512-sound-effects-8-bit-style
 
 This is The Essential Retro Video Game Sound Effects Collection [512 sounds]

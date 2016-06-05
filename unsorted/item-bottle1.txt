@@ -1,0 +1,6 @@
+Author: The GNOME Project
+License: GPL2
+Origin: https://www.gnome.org/
+        http://pygame.org/project-GalaxyMage-163-324.html
+
+originally generic.wav

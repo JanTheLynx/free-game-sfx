@@ -1,0 +1,3 @@
+Author: Wesnoth Team
+License: GPL2
+Origin: http://www.wesnoth.org

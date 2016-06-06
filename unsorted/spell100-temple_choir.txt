@@ -1,0 +1,7 @@
+Authors: kimmomerikivi, mikkommm, Nikita Sadkov
+License: GPL2
+Origin: https://sourceforge.net/projects/battle4mandicor/
+
+I have added reverb to the original choir.
+
+"Battle for Mandicor is free real time strategy (RTS) game. It uses Stratagus-engine (http://www.stratagus.sourceforge.net)."

@@ -1,0 +1,14 @@
+Author: Jeff Leary
+License: Public Domain
+Origin: http://www.brickfilms.com/sounds.php
+        http://pygame.org/project-GalaxyMage-163-324.html
+
+taken from GalaxyMage
+
+"Jeff Leary (http://www.brickfilms.com/sounds.php)
+License: public domain
+
+* arrow-hit.ogg
+* mace-hit.ogg
+* staff-hit.ogg
+* sword-hit-large.ogg"

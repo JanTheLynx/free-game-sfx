@@ -1,0 +1,5 @@
+author: Paresh
+license: CC0 (Public Domain)
+origin: http://freesound.org/people/Paresh/sounds/151678/
+
+"falling, portamento fX sounds created with the Roland VG-8 guitar system"

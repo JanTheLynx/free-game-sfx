@@ -1,0 +1,7 @@
+Author: Fabien 'farfadet46' (https://twitter.com/farfadet46)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/scratch-vocal-sound
+
+little vocal sound for my little game under construct2
+
+Have fun ;)

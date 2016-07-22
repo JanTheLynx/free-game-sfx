@@ -1,0 +1,3 @@
+author: Kevin Hartnell 'rodincoil' (http://www.kevinhartnell.com/)
+license: CC0 (Public Domain)
+origin: http://freesound.org/people/rodincoil/sounds/271945/

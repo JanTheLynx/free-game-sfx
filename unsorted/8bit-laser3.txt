@@ -1,0 +1,3 @@
+author: Rodeo
+license: CC-BY
+origin: http://opengameart.org/content/blasteroids-sfx-pack

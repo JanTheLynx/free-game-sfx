@@ -1,0 +1,5 @@
+author: Rosalila Studio
+license: CC-BY-SA
+origin: http://opengameart.org/content/flatshot-complete-sfx-pack
+
+Flatshot is a shoot 'em up with minimal style. This pack has all the SFX that we are currently using.

@@ -1,4 +1,5 @@
-author: Nikita Sadkov
-license: CC-BY-SA
+Author: Nikita Sadkov
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-sfx
 
 based of cat.wav

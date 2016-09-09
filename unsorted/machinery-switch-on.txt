@@ -1,0 +1,9 @@
+author: Cleyton R. Xavier 'Doppelganger'
+license: CC-BY-SA
+origin: http://opengameart.org/content/sfx-circuit-breaker
+
+SFX: Circuit breaker (ON/OFF)
+
+Format: WAV.
+Copyright/Attribution Notice: 
+SFX by Cleyton R. Xavier - http://opengameart.org/users/doppelganger

@@ -1,0 +1,6 @@
+Author: Ove Melaa (Omsofware@hotmail.com)
+License: CC-BY
+Origin: http://opengameart.org/content/oves-essential-game-audio-pack-collection-160-files-updated
+
+Attribution Instructions: 
+Place this in your game or application in the about or credits screen : XXXXX (score name) written and produced by Ove Melaa (Omsofware@hotmail.com) Or Additional samples by Ove Melaa (Omsofware@hotmail.com) -2013 Ove Melaa

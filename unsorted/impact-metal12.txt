@@ -2,4 +2,4 @@ author: Nikita Sadkov, Paulius Jurgelevicius 'pauliuw' (http://dustychest.tk/ ht
 license: Public Domain (CC0)
 origin: http://opengameart.org/content/hit-sounds
 
-And edit base of the samples by pauliuw
+An edit base of the samples by pauliuw

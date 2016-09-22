@@ -1,0 +1,5 @@
+Author: NoiseCollector (http://www.archive.org/details/noisecollector)
+License: CC-BY
+Origin: https://freesound.org/people/NoiseCollector/sounds/196342/
+
+Snippets of digitized vinyl records recorded via USB. Those with IR in the names are or contain impulse response. Some may need editing or may not if you are experimenting. Some are looped some are not. All are taken from unofficial vintage vinyl at least as old as the early 1980's and beyond.

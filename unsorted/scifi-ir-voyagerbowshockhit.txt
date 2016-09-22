@@ -1,0 +1,5 @@
+Author: NoiseCollector (http://www.archive.org/details/noisecollector)
+License: CC-BY
+Origin: https://freesound.org/people/NoiseCollector/sounds/220246/
+
+Impulse responses created from old recording medium surface noises and other scientific data.

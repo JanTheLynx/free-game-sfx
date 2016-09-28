@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/sci-fi-vehicle-sound
+
+A generic sound for a Sci-Fi vehicle that could be used for dying, taking off, landing, etc. Made from of a recording of a... toilet flushing. >>

@@ -1,0 +1,12 @@
+author: Ogrebane
+license: CC-BY, CC-BY-SA, GPL2, GPL3
+origin: http://opengameart.org/content/inventory-sound-effects
+
+A set of six sound effects in the .wav format created for the FOSS RPG game Summoning Wars.
+
+-Metal Clash
+-Ring
+-Leather
+-Cloth
+-turn page
+-sell/buy

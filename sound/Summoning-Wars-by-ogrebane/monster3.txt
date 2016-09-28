@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/monster-sound-effects-2
+
+Second pack of monster sound effects, 17 files in the .wav format.

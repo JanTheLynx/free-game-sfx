@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/dark-ambiences
+
+5 darkish ambient sounds in the .wav format, could be useful in a variety of situations.

@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/teleport-spell
+
+A teleport spell sound in the .wav format, created for the FOSS RPG Summoning Wars.

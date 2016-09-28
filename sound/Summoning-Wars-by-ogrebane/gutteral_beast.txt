@@ -1,0 +1,5 @@
+author: Ogrebane
+license: CC-BY, CC-BY-SA, GPL2, GPL3
+origin: http://opengameart.org/content/metal-and-wood-impact-sound-effects
+
+Some guttural vocals in the .wav format for a monster of some kind, like an ogre, a troll, or hogzilla. There are 3 hit sounds, 2 die sounds, and a belch sound thrown in for good measure. ;) Enjoy! -artistic

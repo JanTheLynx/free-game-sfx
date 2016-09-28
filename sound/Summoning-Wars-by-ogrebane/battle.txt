@@ -1,0 +1,7 @@
+author: Ogrebane
+license: CC-BY, CC-BY-SA, GPL2, GPL3, Public Domain
+origin: http://opengameart.org/content/battle-sound-effects
+
+Three swishes and a bow, created for the FOSS RPG Summoning Wars. For some unknown reason I am unable to upload a preview without my browser crashing, so I'll have to try again later.
+
+-artisticdude

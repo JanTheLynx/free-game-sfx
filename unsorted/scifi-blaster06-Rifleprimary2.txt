@@ -1,0 +1,5 @@
+Author: Skorpio
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/laser-rifle
+
+A laser rifle sound that I made for Red Eclipse. http://www.redeclipse.net/

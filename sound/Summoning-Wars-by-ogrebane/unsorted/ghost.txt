@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/ghost
+
+Ghost sound, could be used for a die sound, ambience, etc.

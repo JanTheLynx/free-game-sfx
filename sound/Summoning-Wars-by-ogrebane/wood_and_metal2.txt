@@ -1,0 +1,5 @@
+author: Ogrebane
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/wood-and-metal-sound-effects-volume-2
+
+26 uncompressed wood and metal impact sound effects in the .aif format.

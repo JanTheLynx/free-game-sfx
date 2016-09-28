@@ -1,0 +1,10 @@
+Author: Kenney Vleugels (http://www.kenney.nl)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/54-casino-sound-effects-cards-dice-chips
+
+54 casino themed sound effects (23 card handling sounds, 19 chip handling and 12 dice handling sounds) in WAV format.
+
+Let me know if you have any questions or requests!
+
+Attribution Instructions: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

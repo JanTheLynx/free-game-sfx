@@ -1,0 +1,9 @@
+author: Ogrebane
+license: CC-BY
+origin: http://opengameart.org/content/metal-and-wood-impact-sound-effects
+
+A collection of uncompressed wood and metal impact sound effects in the .aif format, created for the FOSS RPG Summoning Wars. Fireplace tools are fun. :P
+
+ 
+
+-artistic

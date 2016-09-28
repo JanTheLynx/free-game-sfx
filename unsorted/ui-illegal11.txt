@@ -1,0 +1,5 @@
+Author: LokiF (http://opengameart.org/users/lokif)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/gui-sound-effects
+
+Some sound effects for a menu. There are clicks and positive/negative sounds, etc. Also some longer (all are very short, though) sounds for saving the game and such.

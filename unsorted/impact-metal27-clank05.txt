@@ -1,2 +1,3 @@
 author: `Nikita Sadkov`, `wjoojoo`
+license: CC-BY
 origin: `https://freesound.org/people/wjoojoo/sounds/273550/`

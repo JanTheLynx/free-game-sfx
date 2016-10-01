@@ -1,0 +1,9 @@
+author: `Nikita Sadkov`, `wjoojoo`
+license: CC-BY
+origin: `https://freesound.org/people/wjoojoo/sounds/273550/`
+
+bright reverbing metal hit
+
+based of a CC-BY recording by wjoojoo https://freesound.org/people/wjoojoo/sounds/273550/
+
+done with Audacity and SpectraLayers Pro

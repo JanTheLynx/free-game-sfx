@@ -1,0 +1,9 @@
+Author: Nikita Sadkov
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-sfx
+
+Grunting with metallic sound. Could be used as an armored soldier being hit.
+
+Produced by myself and extracted from the video of my own recording https://goblinrefuge.com/mediagoblin/u/nikita_sadkov/m/smert-rossii/
+
+Edited with SpectraLayers Pro to remove wind noises.

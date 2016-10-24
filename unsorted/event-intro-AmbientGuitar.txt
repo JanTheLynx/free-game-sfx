@@ -1,0 +1,5 @@
+Author: Jason Dagenet 'jdagenet'
+License: CC-BY
+Origin: http://opengameart.org/content/ambientguitar001
+
+Ambient guitar riff that loops inside a sampler instrument. Can also be used to set and begin the tone of something else.

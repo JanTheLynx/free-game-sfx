@@ -1,0 +1,11 @@
+Author: Jason Dagenet 'jdagenet'
+License: CC-BY
+Origin: http://opengameart.org/content/intro-sequence
+
+A nice atmospheric intro-type sequence. preferably for an opening to a game or cutscene.
+
+If you use this for your project, be sure to credit me approprately.
+
+If you would like custom audio content created for your game, feel free to contact me.
+Attribution Instructions: 
+Please credit me as jdagenet or Jason Dagenet.

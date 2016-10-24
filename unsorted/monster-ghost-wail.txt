@@ -1,0 +1,5 @@
+Author: Nikita Sadkov, Bart Kelsey (http://opengameart.org/users/bart)
+License: CC-BY, CC-BY-SA, GPL2, GPL3
+Origin: http://opengameart.org/content/25-spooky-sound-effects
+
+based of sfx by Bart Kelsey
